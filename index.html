@@ -3,49 +3,190 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Saint Wallpaper</title>
+<title>Saint Wallpaper: the saint of the day on your Mac</title>
+<meta name="description" content="A free Mac app that makes your desktop the saint or feast of the day, with a great painting and a short life, following the U.S. Catholic calendar.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
 <style>
-  :root { --ink:#f3ece0; --muted:#b9ad9a; --gold:#d9b46a; --bg:#17120f; }
-  * { box-sizing:border-box; }
-  body { margin:0; background:radial-gradient(ellipse at top, #2a1d16 0%, var(--bg) 60%); color:var(--ink);
-         font:17px/1.6 Georgia, "Times New Roman", serif; min-height:100vh; }
-  main { max-width:720px; margin:0 auto; padding:72px 24px 96px; }
-  .cross { color:var(--gold); font-size:44px; line-height:1; }
-  h1 { font-weight:normal; font-size:46px; margin:12px 0 8px; letter-spacing:.5px; }
-  .lead { color:var(--muted); font-size:20px; margin:0 0 36px; }
-  .btn { display:inline-block; background:var(--gold); color:#1b130d; text-decoration:none; font:600 17px/1 -apple-system, system-ui, sans-serif;
-         padding:16px 26px; border-radius:10px; }
-  .btn:hover { filter:brightness(1.08); }
-  .small { color:var(--muted); font:14px/1.5 -apple-system, system-ui, sans-serif; margin-top:12px; }
-  h2 { font-weight:normal; color:var(--gold); font-size:22px; margin:52px 0 12px; }
-  ol { padding-left:22px; } li { margin:8px 0; }
-  .note { border-left:2px solid var(--gold); padding:4px 0 4px 16px; color:var(--muted); }
-  footer { margin-top:64px; color:var(--muted); font:13px/1.5 -apple-system, system-ui, sans-serif; }
-  a { color:var(--gold); }
+  :root {
+    --wall: #3b4038;        /* gallery wall, a dark grey-green */
+    --wall-deep: #30342d;
+    --ink: #eee8dc;
+    --quiet: #b9b2a4;
+    --rule: #575c52;
+    --day: #c9a54a;         /* today's liturgical colour, set by the script */
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--wall); }
+  body { margin: 0; color: var(--ink); font: 400 18px/1.6 "Alegreya Sans", system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  .band { height: 8px; background: var(--day); }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+
+  header { max-width: 1180px; margin: 0 auto; padding: 22px 28px; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+  .name { font: 400 26px/1 "IM Fell English", Georgia, serif; text-decoration: none; }
+  .download { display: inline-block; background: var(--ink); color: var(--wall-deep); font: 500 16px/1 "Alegreya Sans", sans-serif; text-decoration: none; padding: 13px 20px; border-radius: 3px; }
+  .download:hover { background: #fff; }
+
+  .today { max-width: 1180px; margin: 0 auto; padding: 40px 28px 72px; display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: 64px; align-items: center; }
+  .date { font: italic 400 22px/1.3 "IM Fell English", Georgia, serif; color: var(--quiet); margin: 0 0 14px; }
+  h1 { font: 400 clamp(40px, 5.2vw, 68px)/1.04 "IM Fell English", Georgia, serif; margin: 0 0 14px; letter-spacing: -0.5px; text-wrap: balance; }
+  .rank { margin: 0 0 26px; color: var(--quiet); font-size: 17px; }
+  .swatch { display: inline-block; width: 11px; height: 11px; border-radius: 50%; background: var(--day); margin-right: 9px; vertical-align: 1px; box-shadow: 0 0 0 1px rgba(255,255,255,.25); }
+  .bio { font-size: 20px; line-height: 1.6; max-width: 34em; margin: 0 0 22px; }
+  .years { color: var(--quiet); }
+  .about-art { font-style: italic; color: var(--quiet); font-size: 16px; max-width: 36em; margin: 0; }
+  .hang { margin: 0; display: flex; justify-content: center; }
+  .hang img { display: block; max-width: 100%; max-height: 74vh; width: auto; height: auto; background: var(--wall-deep);
+              box-shadow: 0 2px 3px rgba(0,0,0,.35), 0 24px 50px -12px rgba(0,0,0,.55); }
+  .note { margin: 26px 0 0; font-size: 16px; color: var(--quiet); max-width: 34em; }
+
+  .week { background: var(--wall-deep); padding: 56px 0 64px; }
+  .inner { max-width: 1180px; margin: 0 auto; padding: 0 28px; }
+  h2 { font: 400 32px/1.15 "IM Fell English", Georgia, serif; margin: 0 0 24px; }
+  .days { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 22px; }
+  .days li { min-width: 0; }
+  .thumb { height: 190px; display: flex; align-items: flex-end; margin-bottom: 14px; }
+  .thumb img { max-width: 100%; max-height: 100%; display: block; box-shadow: 0 10px 22px -10px rgba(0,0,0,.7); }
+  .when { display: block; font: italic 16px/1.3 "IM Fell English", Georgia, serif; color: var(--quiet); }
+  .who { display: block; font-size: 16px; line-height: 1.35; margin-top: 3px; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 7px; vertical-align: 1px; box-shadow: 0 0 0 1px rgba(255,255,255,.25); }
+
+  .desk, .install { max-width: 1180px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 4fr); gap: 56px; align-items: start; }
+  .desk { padding: 72px 28px 24px; }
+  .install { padding: 40px 28px 80px; }
+  .screen { margin: 0; }
+  .screen img { width: 100%; display: block; border-radius: 6px; box-shadow: 0 30px 60px -20px rgba(0,0,0,.6); }
+  .screen figcaption { color: var(--quiet); font-size: 15px; margin-top: 12px; }
+  .desk p { margin: 0 0 16px; }
+  ol { margin: 0; padding-left: 1.3em; }
+  ol li { margin: 0 0 14px; padding-left: 6px; max-width: 38em; }
+  ol li::marker { font-family: "IM Fell English", Georgia, serif; color: var(--quiet); }
+  .small { font-size: 15px; color: var(--quiet); }
+  .small p { margin: 0 0 14px; }
+
+  footer { border-top: 1px solid var(--rule); }
+  footer .inner { padding-top: 26px; padding-bottom: 40px; color: var(--quiet); font-size: 15px; }
+
+  @media (max-width: 900px) {
+    .today, .desk, .install { grid-template-columns: 1fr; gap: 36px; }
+    .hang { order: -1; }
+    .hang img { max-height: 60vh; }
+    .days { grid-template-columns: repeat(3, minmax(0, 1fr)); row-gap: 34px; }
+  }
+  @media (max-width: 520px) {
+    header { padding: 16px 20px; }
+    .today, .desk, .install { padding-left: 20px; padding-right: 20px; }
+    .inner { padding: 0 20px; }
+    .days { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .thumb { height: 150px; }
+  }
 </style>
 </head>
 <body>
+<div class="band"></div>
+
+<header>
+  <a class="name" href="./">Saint Wallpaper</a>
+  <a class="download" href="download/Saint-Wallpaper.zip">Download for Mac</a>
+</header>
+
 <main>
-  <div class="cross">✝</div>
-  <h1>Saint Wallpaper</h1>
-  <p class="lead">Every morning your Mac's desktop becomes the saint or feast of the day — a great painting of them, shown whole, with a short life of the saint and a note on the picture. On plain weekdays and Sundays it shows a painting of that day's Gospel.</p>
+  <section class="today" id="today" hidden>
+    <div>
+      <p class="date" id="t-date"></p>
+      <h1 id="t-title"></h1>
+      <p class="rank"><span class="swatch"></span><span id="t-rank"></span></p>
+      <p class="bio" id="t-bio"></p>
+      <p class="about-art" id="t-art"></p>
+      <p class="note">This is on the desktop of everyone who has Saint Wallpaper today. Tomorrow it changes by itself.</p>
+    </div>
+    <figure class="hang"><img id="t-img" alt=""></figure>
+  </section>
 
-  <a class="btn" href="download/Saint-Wallpaper.zip">Download for Mac</a>
-  <p class="small">Free · macOS 14 Sonoma or newer · follows the U.S. Catholic calendar (worldwide calendar in Settings)</p>
+  <section class="week" id="week" hidden>
+    <div class="inner">
+      <h2>The rest of the week</h2>
+      <ul class="days" id="days"></ul>
+    </div>
+  </section>
 
-  <h2>Installing</h2>
-  <ol>
-    <li>Open the downloaded file. It unzips into <b>Saint Wallpaper</b>.</li>
-    <li>Drag <b>Saint Wallpaper</b> into your <b>Applications</b> folder, then double-click it.</li>
-    <li>The first time, your Mac will say it can't check the app for malicious software, because it isn't sold through Apple. Click <b>Done</b>, then open <b>System Settings → Privacy &amp; Security</b>, scroll down, and click <b>Open Anyway</b> next to "Saint Wallpaper". You only do this once.</li>
-    <li>A small ✝ appears at the top of your screen and your wallpaper changes. That's it — it updates by itself every day and starts when you log in.</li>
-  </ol>
-  <p class="note">The paintings and texts live on this website, so corrections and new pictures reach everyone automatically. The app needs the internet now and then to fetch the next two weeks of pictures; it works offline in between.</p>
+  <section class="desk">
+    <figure class="screen">
+      <img src="assets/christmas-wallpaper.jpg" alt="A Mac desktop on Christmas Day: a Nativity painting shown whole on the right, and on the left the name of the feast, a short text about it and a note on the painting." loading="lazy">
+      <figcaption>Christmas Day as it appears on the desktop. The wallpaper is drawn to fit each screen.</figcaption>
+    </figure>
+    <div>
+      <h2>What it does</h2>
+      <p>Each morning your desktop becomes the saint or feast of the day, following the calendar used in the United States. The worldwide calendar is a setting.</p>
+      <p>The painting is shown whole, never cropped, beside a few lines about the saint and a note on who painted it and where it hangs.</p>
+      <p>On Sundays, and on weekdays without a saint, it shows a painting of that day's Gospel.</p>
+      <p>It lives in the menu bar as a small ✝ and costs nothing.</p>
+    </div>
+  </section>
 
-  <h2>About the pictures</h2>
-  <p>The paintings, icons, mosaics and engravings are works in the public domain or under free licenses, from Wikimedia Commons. Each wallpaper names the artist, and the ✝ menu has the full list of credits.</p>
-
-  <footer>Saint Wallpaper</footer>
+  <section class="install">
+    <div>
+      <h2>Installing it</h2>
+      <ol>
+        <li><a href="download/Saint-Wallpaper.zip">Download the app</a> and open the file. It unzips into <b>Saint Wallpaper</b>.</li>
+        <li>Drag <b>Saint Wallpaper</b> into your Applications folder and double-click it.</li>
+        <li>Your Mac will say it can't check the app, because it isn't sold through Apple. Click <b>Done</b>, open <b>System Settings</b>, go to <b>Privacy &amp; Security</b>, scroll down and click <b>Open Anyway</b>. You only do this once.</li>
+        <li>The ✝ appears at the top of your screen and your wallpaper changes. It starts by itself when you log in.</li>
+      </ol>
+    </div>
+    <div class="small">
+      <p>Needs macOS 14 Sonoma or newer.</p>
+      <p>Pictures for the next two weeks are kept on your Mac, so it keeps working without internet. Corrections and new paintings arrive on their own.</p>
+    </div>
+  </section>
 </main>
+
+<footer>
+  <div class="inner">
+    The paintings, icons, mosaics and engravings are in the public domain or freely licensed, from Wikimedia Commons. Every wallpaper names its artist, and the ✝ menu lists full credits.
+  </div>
+</footer>
+
+<script>
+(function () {
+  var COLORS = { white: "#c9a54a", green: "#4f8a4f", violet: "#7a5aa6", purple: "#7a5aa6", red: "#b8372d", rose: "#d38a9e", black: "#1d1d1d", gold: "#c9a54a" };
+  function key(d) { return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+  function src(file) { return "content/img/" + file; }
+  fetch("content/days.json").then(function (r) { return r.json(); }).then(function (days) {
+    var now = new Date(), t = days[key(now)];
+    if (!t) return;
+    document.documentElement.style.setProperty("--day", COLORS[t.c] || COLORS.white);
+    document.getElementById("t-date").textContent = now.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" });
+    document.getElementById("t-title").textContent = t.t;
+    document.getElementById("t-rank").textContent = t.r;
+    var bio = document.getElementById("t-bio");
+    if (t.b) {
+      bio.textContent = t.b;
+      if (t.y) { var y = document.createElement("span"); y.className = "years"; y.textContent = " (" + t.y + ")"; bio.appendChild(y); }
+    } else bio.remove();
+    var art = document.getElementById("t-art");
+    if (t.a) art.textContent = t.a; else art.remove();
+    var im = document.getElementById("t-img");
+    if (t.img) { im.src = src(t.img); im.alt = t.a || ("Painting for " + t.t); } else im.parentNode.remove();
+    document.getElementById("today").hidden = false;
+
+    var ul = document.getElementById("days"), n = 0;
+    for (var i = 1; i <= 6; i++) {
+      var d = new Date(now.getFullYear(), now.getMonth(), now.getDate() + i), e = days[key(d)];
+      if (!e || !e.img) continue;
+      var li = document.createElement("li");
+      li.innerHTML = '<div class="thumb"><img loading="lazy" alt=""></div><span class="when"></span><span class="who"><span class="dot"></span></span>';
+      var pic = li.querySelector("img"); pic.src = src(e.img); pic.alt = e.a || ("Painting for " + e.t);
+      li.querySelector(".when").textContent = d.toLocaleDateString("en-US", { weekday: "long", month: "short", day: "numeric" });
+      li.querySelector(".dot").style.background = COLORS[e.c] || COLORS.white;
+      li.querySelector(".who").appendChild(document.createTextNode(e.t));
+      ul.appendChild(li); n++;
+    }
+    if (n) document.getElementById("week").hidden = false;
+  }).catch(function () {});
+})();
+</script>
 </body>
 </html>
