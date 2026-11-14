@@ -55,7 +55,7 @@
 
   .install { max-width: 1180px; margin: 0 auto; }
   .desk { padding: 72px 28px 24px; }
-  .install { padding: 72px 28px 80px; }
+  .install { padding: 72px 28px 80px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 64px; }
   .screen { margin: 0; }
   .screen img { width: 100%; display: block; border-radius: 6px; box-shadow: 0 30px 60px -20px rgba(0,0,0,.6); }
   .screen figcaption { color: var(--quiet); font-size: 15px; margin-top: 12px; }
@@ -90,7 +90,7 @@
 
 <header>
   <a class="name" href="./">Saint Wallpaper</a>
-  <a class="download" href="download/Saint-Wallpaper.zip">Download for Mac</a>
+  <a class="download" href="#install">Get it for Mac or iPhone</a>
 </header>
 
 <main>
@@ -101,7 +101,7 @@
       <p class="rank"><span class="swatch"></span><span id="t-rank"></span></p>
       <p class="bio" id="t-bio"></p>
       <p class="about-art" id="t-art"></p>
-      <p class="note">This is on the desktop of everyone who has Saint Wallpaper today. Tomorrow it changes by itself.</p>
+      <p class="note">This is on the desktop and Lock Screen of everyone who has Saint Wallpaper today. Tomorrow it changes by itself.</p>
     </div>
     <figure class="hang"><img id="t-img" alt=""></figure>
   </section>
@@ -113,15 +113,24 @@
     </div>
   </section>
 
-  <section class="install">
+  <section class="install" id="install">
     <div>
-      <h2>Installing it</h2>
+      <h2>On a Mac</h2>
       <ol>
         <li><a href="download/Saint-Wallpaper.zip">Download the app</a> and open the file. It unzips into <b>Saint Wallpaper</b>.</li>
         <li>Drag <b>Saint Wallpaper</b> into your Applications folder and double-click it.</li>
         <li>Your Mac will say it can't check the app, because it isn't sold through Apple. Click <b>Done</b>, open <b>System Settings</b>, go to <b>Privacy &amp; Security</b>, scroll down and click <b>Open Anyway</b>. You only do this once.</li>
         <li>The ✝ appears at the top of your screen and your wallpaper changes. It starts by itself when you log in.</li>
       </ol>
+    </div>
+    <div>
+      <h2>On an iPhone</h2>
+      <ol>
+        <li>Open this page on your iPhone in Safari and tap <a href="download/Saint-Wallpaper.shortcut">Get the Shortcut</a>, then <b>Add Shortcut</b>. If Safari asks to download it first, tap <b>Download</b>, then open it from the ↓ button.</li>
+        <li>In the <b>Shortcuts</b> app, tap <b>Saint Wallpaper</b> once. Tap <b>Allow</b> when it asks to connect to cbacon1.github.io. Your Lock Screen changes to today's picture.</li>
+        <li>To make it change every day: tap <b>Automation</b>, then <b>+</b>, then <b>Time of Day</b>. Pick 12:01 AM, <b>Daily</b> and <b>Run Immediately</b>, tap <b>Next</b> and choose <b>Saint Wallpaper</b>.</li>
+      </ol>
+      <p class="small">It only changes the Lock Screen. Your Home Screen stays as it is.</p>
     </div>
   </section>
 </main>
