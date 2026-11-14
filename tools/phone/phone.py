@@ -97,7 +97,8 @@ def draw_final(d, day, y, color, dry):
     f = font("inter", 38, 400)
     if dry: y += int(f.size * 1.4) + 14
     else: y = rank_line(d, y + 14, rank, color, f)
-    b = short_text(day.get("b", ""))
+    b = day.get("b", "")
+    if not b.startswith("“"): b = short_text(b)   # Gospel quotes are shown whole
     if b:
         y = centered(d, y + 18, b, font("inter", 40, 400), (214, 207, 194), 1, 1.38, dry)
     return y - y0
