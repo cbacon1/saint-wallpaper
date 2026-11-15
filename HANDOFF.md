@@ -13,6 +13,10 @@ official U.S. liturgical calendar (worldwide calendar is a setting).
   gets its content, so content edits reach everyone within hours.
 
 ## Where things live
+- **Two GitHub repos:** `cbacon1/saint-wallpaper` (PUBLIC: the website and all
+  daily content; never rename it, every installed app downloads from its address)
+  and `cbacon1/saint-wallpaper-code` (PRIVATE: the code, data and tools; a backup of
+  the Mac project folder minus the pictures).
 - Mac project folder ("the workshop"): `~/Desktop/Saint Wallpaper/`
   - `Sources/*.swift` app code · `App/Info.plist` (CFBundleVersion = build number)
   - `data/` calendar.json (2026–2045), paintings.tsv (which picture per day),
