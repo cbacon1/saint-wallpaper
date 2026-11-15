@@ -73,8 +73,10 @@ painting, on the official U.S. liturgical calendar (worldwide calendar is a sett
   no white/grey borders; most famous public-domain depiction of each saint.
 - Gospel days: an RSV-2CE quote (credit line in ✝ Credits and site footer, not on
   the wallpaper). About 300 verses used of the 500 allowed without permission.
-- Mac text: saint days = rank on top, title · lifetime in italics; other days =
-  date on top (season name when the title is a date). No Gospel reference shown.
+- Mac text: top line on every day = date · rank ("November 16, 2026 · Optional
+  Memorial"; weekdays show the season, e.g. "· Advent"), in the day's liturgical
+  color. Then the name; under it in italics: title · lifetime (saints), the
+  commemoration, or the rest of the day's name. No Gospel reference shown.
 - iPhone text: name, italic title or commemoration, dot + rank, quote/story.
 
 ## Open items
