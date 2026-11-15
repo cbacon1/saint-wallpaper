@@ -1593,7 +1593,7 @@
  },
  "friday_after_ash_wednesday": {
   "label": "The painting",
-  "text": "The Marriage at Cana by Gerard David, about 1500 — Christ as the bridegroom's guest. It is in the Louvre, Paris."
+  "text": "The Fight Between Carnival and Lent by Pieter Bruegel the Elder, 1559. In a crowded Flemish square, fat Carnival astride a barrel jousts with gaunt Lent, whose lance is a baker's paddle holding two herrings; half the town feasts, the other half fasts, prays and gives alms. It is in the Kunsthistorisches Museum, Vienna."
  },
  "saturday_after_ash_wednesday": {
   "label": "The painting",
@@ -1837,10 +1837,74 @@
  },
  "lent_1_friday": {
   "label": "The painting",
-  "text": "The Return of the Prodigal Son by Rembrandt, about 1668, painted near the end of his life. The ragged son kneels with his head against his father's chest, and the father's two hands rest on his back. It is in the Hermitage Museum, St. Petersburg."
+  "text": "Cain Slaying Abel by Peter Paul Rubens, about 1608–09. Cain stands over his brother, about to strike, beside the smoking altar of their offerings: 'whoever is angry with his brother shall be liable to judgment.' It is in the Courtauld Gallery, London."
  },
  "lent_2_wednesday": {
   "label": "The painting",
   "text": "The Agony in the Garden by Giovanni Bellini, about 1458–60. Christ prays on a rock as dawn breaks and the disciples sleep; Judas and the soldiers are already on their way. It is in the National Gallery, London."
+ },
+ "thursday_after_ash_wednesday": {
+  "label": "The painting",
+  "text": "Christ Carrying the Cross by Titian, about 1565. Simon of Cyrene leans in to share the weight as Christ turns his face toward us. It is in the Prado, Madrid."
+ },
+ "lent_1_wednesday": {
+  "label": "The fresco",
+  "text": "The prophet Jonah by Michelangelo, painted about 1511 on the Sistine Chapel ceiling, directly above the altar. He leans back to look up at God, the great fish behind him; his three days in its belly became the 'sign of Jonah', a sign of the Resurrection."
+ },
+ "lent_2_monday": {
+  "label": "The painting",
+  "text": "The Seven Acts of Mercy by Pieter Brueghel the Younger, early 1600s, one of several versions he painted. In a single village street the hungry are fed, the thirsty given drink, strangers taken in, the naked clothed, the sick and the prisoners visited, and the dead buried."
+ },
+ "lent_2_tuesday": {
+  "label": "The painting",
+  "text": "Christ Washing the Feet of the Disciples by Jacopo Tintoretto, about 1575–80. Christ kneels to wash Peter's feet while the others look on: the greatest among them as their servant. It is in the National Gallery, London."
+ },
+ "lent_3_wednesday": {
+  "label": "The painting",
+  "text": "Christ among the Doctors by Albrecht Dürer, 1506, painted in Venice in five days, as the note tucked into the book at the left says. Old teachers of the Law crowd around the boy Jesus with their books. It is in the Thyssen-Bornemisza Museum, Madrid."
+ },
+ "lent_3_thursday": {
+  "label": "The watercolor",
+  "text": "Jesus Heals a Mute Possessed Man by James Tissot, 1886–94, one of the hundreds of watercolors of his Life of Christ, made after his journeys to the Holy Land. It is in the Brooklyn Museum, New York."
+ },
+ "lent_4_monday": {
+  "label": "The miniature",
+  "text": "Jesus Heals the Nobleman's Son, a Mughal painting from a Mirror of Holiness, the life of Christ the Jesuit Jerome Xavier wrote in Persian for the emperor Akbar, illustrated at Allahabad, India, about 1602–04. It is in the Cleveland Museum of Art."
+ },
+ "lent_4_tuesday": {
+  "label": "The painting",
+  "text": "Christ Healing the Paralytic at the Pool of Bethesda by Bartolomé Esteban Murillo, 1667–70, painted for the Hospital de la Caridad in Seville. The man who has waited thirty-eight years looks up as Christ tells him to rise. It is in the National Gallery, London."
+ },
+ "lent_5_wednesday": {
+  "label": "The painting",
+  "text": "'What Is Truth?' Christ and Pilate, by Nikolai Ge, 1890. Pilate, in full sunlight, turns away with his question; Christ stands silent in the shadow. It is in the Tretyakov Gallery, Moscow."
+ },
+ "lent_5_thursday": {
+  "label": "The watercolor",
+  "text": "The Jews Took Up Rocks to Stone Jesus by James Tissot, 1886–96, from his Life of Christ. The crowd snatches up stones from the Temple works as Christ slips away. It is in the Brooklyn Museum, New York."
+ },
+ "lent_5_friday": {
+  "label": "The watercolor",
+  "text": "Jesus Walks in the Portico of Solomon by James Tissot, 1886–94, from his Life of Christ: the Temple colonnade where this argument took place, in winter, at the feast of the Dedication. It is in the Brooklyn Museum, New York."
+ },
+ "advent_december_21": {
+  "label": "The painting",
+  "text": "The Visitation by Rogier van der Weyden, about 1435–40. Mary and Elizabeth, both expecting, meet on a path in the Flemish countryside, each resting a hand on the other. It is in the Museum of Fine Arts, Leipzig."
+ },
+ "advent_december_23": {
+  "label": "The painting",
+  "text": "The Naming of John the Baptist by Fra Angelico, about 1435. Zechariah, still unable to speak, writes 'His name is John' while Elizabeth's household looks on. It is in the Museo di San Marco, Florence."
+ },
+ "christmas_octave_day_5": {
+  "label": "The painting",
+  "text": "Simeon's Song of Praise by Rembrandt, 1631. In a vast, dim temple one shaft of light falls on old Simeon holding the Child, with Mary and Joseph kneeling beside him. It is in the Mauritshuis, The Hague."
+ },
+ "christmas_octave_day_7": {
+  "label": "The painting",
+  "text": "The Holy Night by Correggio, about 1528–30, one of the first paintings in which all the light comes from the newborn Child. It is in the Gemäldegalerie Alte Meister, Dresden."
+ },
+ "lent_2_saturday": {
+  "label": "The painting",
+  "text": "The Return of the Prodigal Son by Rembrandt, about 1668, painted near the end of his life. The ragged son kneels with his head against his father's chest, and the father's two hands rest on his back. It is in the Hermitage Museum, St. Petersburg."
  }
 }

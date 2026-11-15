@@ -90,6 +90,8 @@ def draw_final(d, day, y, color, dry):
     y = centered(d, y, head, font("inter", 70, 600), INK, 1, 1.12, dry)
     if sub:
         y = centered(d, y + 2, sub, font("inter", 46, 400, italic=True), (232, 226, 214), 1, 1.2, dry)
+    if day.get("m"):   # Lent, Dec 17-24, Christmas octave: "Commemoration of Saint ..."
+        y = centered(d, y + 6, day["m"], font("inter", 38, 400, italic=True), (225, 218, 205), 1, 1.25, dry)
     rank = day.get("r", "")
     ref = day.get("y", "")
     if re.match(r"^(Matthew|Mark|Luke|John) \d", ref):
