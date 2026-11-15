@@ -93,9 +93,6 @@ def draw_final(d, day, y, color, dry):
     if day.get("m"):   # Lent, Dec 17-24, Christmas octave: "Commemoration of Saint ..."
         y = centered(d, y + 6, day["m"], font("inter", 38, 400, italic=True), (225, 218, 205), 1, 1.25, dry)
     rank = day.get("r", "")
-    ref = day.get("y", "")
-    if re.match(r"^(Matthew|Mark|Luke|John) \d", ref):
-        rank = f"{rank}, {ref}" if rank else ref
     f = font("inter", 38, 400)
     if dry: y += int(f.size * 1.4) + 14
     else: y = rank_line(d, y + 14, rank, color, f)
