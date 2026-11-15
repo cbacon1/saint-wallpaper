@@ -3,7 +3,8 @@
 This repository is the online home of **Ordo** (formerly Saint Wallpaper), a Mac menu-bar app and iPhone Lock Screen picture showing what the Church celebrates each day: the feast, the Sunday or season with its Gospel, or the saint. Its address keeps the old name, because every installed copy downloads from it.
 
 - `index.html` – the download page: https://cbacon1.github.io/saint-wallpaper/
-- `download/Saint-Wallpaper.zip` – the Mac app people download (`latest.json` tells installed copies about new builds)
+- `download/Ordo.zip` – the Mac app people download from the page
+- `download/Saint-Wallpaper.zip` – the same app under its old file name, used only by automatic updates (`latest.json` points to it)
 - `download/Ordo.shortcut` – the iPhone Shortcut (`Saint-Wallpaper.shortcut` is the same file under its old name)
 - `content/` – what every copy of the app reads:
   - `calendar.json` – the liturgical calendar (U.S. and General Roman), 2026–2045
