@@ -153,7 +153,7 @@
     document.documentElement.style.setProperty("--day", COLORS[t.c] || COLORS.white);
     document.getElementById("t-date").textContent = now.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" });
     document.getElementById("t-title").textContent = t.t;
-    document.getElementById("t-rank").textContent = t.r;
+    document.getElementById("t-rank").textContent = t.m ? t.r + " · " + t.m : t.r;
     var bio = document.getElementById("t-bio");
     if (t.b) {
       bio.textContent = t.b;
