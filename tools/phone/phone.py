@@ -37,6 +37,9 @@ def font(kind, size, weight=None, italic=False):
         f = F("SourceSerif4-Italic.ttf" if italic else "SourceSerif4.ttf", size)
         f.set_variation_by_axes([weight or 600, min(60, max(8, size / 3))])
         return f
+    if kind == "serif":   # Source Serif 4 (static files), close to the iPhone's own serif in the widget
+        style = ("600" if (weight or 400) >= 600 else "400") + ("-italic" if italic else "-normal")
+        return F(f"SourceSerif4-{style}.ttf", size)
     if kind == "cinzel":
         f = F("Cinzel.ttf", size); f.set_variation_by_axes([weight or 400]); return f
     if kind == "inter":
@@ -103,6 +106,27 @@ def draw_final(d, day, y, color, dry):
     return y - y0
 
 
+def draw_widget(d, day, y, color, dry):
+    """Matches the Home Screen widget: kind of day in its color, the name in serif, then the text."""
+    y0 = y
+    head, sub = split_title(day["t"])
+    rank = day.get("r", "")
+    f = font("inter", 40, 600)
+    if dry: y += int(f.size * 1.35)
+    else:
+        rw = d.textlength(rank, font=f)
+        d.text(((W - rw) / 2, y), rank, font=f, fill=DOT.get(color, DOT["white"]))
+        y += int(f.size * 1.35)
+    y = centered(d, y + 4, head, font("serif", 76, 600), INK, 1, 1.1, dry)
+    if day.get("m"):   # Lent, Dec 17-24, Christmas octave: "Commemoration of Saint ..."
+        y = centered(d, y + 4, day["m"], font("serif", 42, 400, italic=True), (226, 219, 205), 1, 1.25, dry)
+    b = day.get("b", "")
+    if not b.startswith("“"): b = short_text(b)
+    if b:
+        y = centered(d, y + 22, b, font("serif", 42, 400), (218, 211, 198), 1, 1.36, dry)
+    return y - y0
+
+
 def rank_line(d, y, rank, color, f):
     dot = int(f.size * 0.5)
     rw = d.textlength(rank, font=f)
@@ -130,6 +154,8 @@ def draw_text(d, day, style, y, color, dry=False):
     t, r = day["t"], day.get("r", "")
     if style == "final":
         return draw_final(d, day, y, color, dry)
+    if style == "widget":
+        return draw_widget(d, day, y, color, dry)
     if style == "none":
         return
     if style == "fell":
