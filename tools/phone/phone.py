@@ -107,7 +107,7 @@ def draw_final(d, day, y, color, dry):
 
 
 def draw_widget(d, day, y, color, dry):
-    """Matches the Home Screen widget: kind of day in its color, the name in serif, then the text."""
+    """Matches the Home Screen widget: kind of day in its color, the name, then the text, all in the iPhone-style font (Inter)."""
     y0 = y
     head, sub = split_title(day["t"])
     rank = day.get("r", "")
@@ -117,13 +117,13 @@ def draw_widget(d, day, y, color, dry):
         rw = d.textlength(rank, font=f)
         d.text(((W - rw) / 2, y), rank, font=f, fill=DOT.get(color, DOT["white"]))
         y += int(f.size * 1.35)
-    y = centered(d, y + 4, head, font("serif", 76, 600), INK, 1, 1.1, dry)
+    y = centered(d, y + 4, head, font("inter", 74, 600), INK, 1, 1.1, dry)
     if day.get("m"):   # Lent, Dec 17-24, Christmas octave: "Commemoration of Saint ..."
-        y = centered(d, y + 4, day["m"], font("serif", 42, 400, italic=True), (226, 219, 205), 1, 1.25, dry)
+        y = centered(d, y + 4, day["m"], font("inter", 40, 400, italic=True), (226, 219, 205), 1, 1.25, dry)
     b = day.get("b", "")
     if not b.startswith("“"): b = short_text(b)
     if b:
-        y = centered(d, y + 22, b, font("serif", 42, 400), (218, 211, 198), 1, 1.36, dry)
+        y = centered(d, y + 22, b, font("inter", 42, 400), (218, 211, 198), 1, 1.36, dry)
     return y - y0
 
 
