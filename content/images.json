@@ -92,7 +92,7 @@
   "article": "Alphonsus Liguori",
   "article_url": "https://en.wikipedia.org/wiki/Alphonsus_Liguori",
   "commons_file": "Catholic_Encyclopedia_-_St._Alphonsus_Liguori.png",
-  "artist": "Unknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Catholic_Encyclopedia_-_St._Alphonsus_Liguori.png",
   "width": 687,
@@ -121,7 +121,7 @@
   "article": "André Bessette",
   "article_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Bessette",
   "commons_file": "Saint_André_Bessette.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Saint_Andr%C3%A9_Bessette.jpg",
   "width": 1328,
@@ -282,7 +282,7 @@
   "article": "Apollinaris of Ravenna",
   "article_url": "https://en.wikipedia.org/wiki/Apollinaris_of_Ravenna",
   "commons_file": "Saint_Apollenaris.jpg",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Saint_Apollenaris.jpg",
   "width": 1674,
@@ -457,7 +457,7 @@
   "article": "",
   "article_url": "",
   "commons_file": "Vietnam_martyrs_Paul_Mi_Pierre_Duong_Pierre_Truat_18_December_1838.jpg",
-  "artist": "PHGCOM",
+  "artist": "Unknown Vietnamese artist (photo: PHGCOM)",
   "license": "CC BY-SA 3.0",
   "source_page": "https://commons.wikimedia.org/wiki/File:Vietnam_martyrs_Paul_Mi_Pierre_Duong_Pierre_Truat_18_December_1838.jpg",
   "width": 1840,
@@ -669,7 +669,7 @@
  "clare_of_assisi_virgin": {
   "file": "clare_of_assisi_virgin-65f4ce6b.jpg",
   "commons_file": "Santa_Chiara_d'Assisi_(Simone_Martini).JPG",
-  "artist": "it:Simone Martini († it:1344 circa)",
+  "artist": "Simone Martini",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Santa_Chiara_d%27Assisi_(Simone_Martini).JPG",
   "layout": "portrait",
@@ -783,7 +783,7 @@
  "damasus_i_pope": {
   "file": "damasus_i_pope-797484eb.jpg",
   "commons_file": "Museu_Alberto_Sampaio_(94).jpg",
-  "artist": "anonymous",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Museu_Alberto_Sampaio_(94).jpg",
   "layout": "portrait",
@@ -834,7 +834,7 @@
  "denis_of_paris_bishop_and_companions_martyrs": {
   "file": "denis_of_paris_bishop_and_companions_martyrs-caff3ce8.jpg",
   "commons_file": "Henri_Bellechose_Le_Retable_de_Saint_Denis_1415_1416.jpg",
-  "artist": "PHGCOM (talk · contribs)",
+  "artist": "Henri Bellechose",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Henri_Bellechose_Le_Retable_de_Saint_Denis_1415_1416.jpg",
   "layout": "portrait",
@@ -932,7 +932,7 @@
  "easter_saturday": {
   "file": "easter_saturday-9064218c.jpg",
   "commons_file": "Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg",
   "layout": "portrait",
@@ -1004,7 +1004,7 @@
   "crop": "face"
  },
  "eusebius_of_vercelli_bishop": {
-  "file": "eusebius_of_vercelli_bishop-0345b038.jpg",
+  "file": "eusebius_of_vercelli_bishop-490ef6fc.jpg",
   "commons_file": "Sebastiano_Ricci_049.jpg",
   "artist": "Sebastiano Ricci",
   "license": "Public domain",
@@ -1012,11 +1012,11 @@
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 1260,
-  "height": 2308
+  "width": 1294,
+  "height": 2302
  },
  "exaltation_of_the_holy_cross": {
-  "file": "exaltation_of_the_holy_cross-cbbc0c69.jpg",
+  "file": "exaltation_of_the_holy_cross-b6c2573a.jpg",
   "commons_file": "The_Frankfurt_Altarpiece_of_the_Exaltation_of_the_True_Cross-_Heraclius_on_Horseback_with_the_Cross_(bottom_right)_(SM_2119).png",
   "artist": "Adam Elsheimer",
   "license": "PDM-owner",
@@ -1024,8 +1024,8 @@
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3840,
-  "height": 3596,
+  "width": 2347,
+  "height": 2188,
   "crop": "saliency"
  },
  "fabian_i_pope": {
@@ -1119,7 +1119,7 @@
  "francis_xavier_priest": {
   "file": "francis_xavier_priest-30664ed8.jpg",
   "commons_file": "Franciscus_de_Xabier.jpg",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Franciscus_de_Xabier.jpg",
   "layout": "portrait",
@@ -1193,7 +1193,7 @@
  "hedwig_of_silesia_religious": {
   "file": "hedwig_of_silesia_religious-ec1eb6f9.jpg",
   "commons_file": "Court_workshop_of_Duke_Ludwig_I_of_Liegnitz_and_Brieg_(Polish_-_Saint_Hedwig_of_Silesia_with_Duke_Ludwig_of_Legnica_and_Brieg_and_Duchess_Agnés_-_Google_Art_Project.jpg",
-  "artist": "Court workshop of Duke Ludwig I of Liegnitz and Brieg (Polish, 1364 - 1398) (1364 - 1398) – illuminator (Polish) Details on Google Art Project",
+  "artist": "Court workshop of Duke Ludwig I of Liegnitz and Brieg",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Court_workshop_of_Duke_Ludwig_I_of_Liegnitz_and_Brieg_(Polish_-_Saint_Hedwig_of_Silesia_with_Duke_Ludwig_of_Legnica_and_Brieg_and_Duchess_Agn%C3%A9s_-_Google_Art_Project.jpg",
   "layout": "portrait",
@@ -1218,7 +1218,7 @@
  "hilary_of_poitiers_bishop": {
   "file": "hilary_of_poitiers_bishop-6db815e3.jpg",
   "commons_file": "Saint_Martin_and_Saint_Hilary_MET_DP349135.jpg",
-  "artist": "anonymous",
+  "artist": "Unknown artist",
   "license": "CC0",
   "source_page": "https://commons.wikimedia.org/wiki/File:Saint_Martin_and_Saint_Hilary_MET_DP349135.jpg",
   "layout": "portrait",
@@ -1231,7 +1231,7 @@
  "hildegard_of_bingen_abbess": {
   "file": "hildegard_of_bingen_abbess-0691ac82.jpg",
   "commons_file": "Hildegard_von_Bingen.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen.jpg",
   "layout": "portrait",
@@ -1281,7 +1281,7 @@
  "ignatius_of_antioch_bishop": {
   "file": "ignatius_of_antioch_bishop-878c005b.jpg",
   "commons_file": "De_heilige_Ignatius_van_Antiochië_Rijksmuseum_SK-A-3398.jpeg",
-  "artist": "anonymous;",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:De_heilige_Ignatius_van_Antiochi%C3%AB_Rijksmuseum_SK-A-3398.jpeg",
   "layout": "portrait",
@@ -1477,7 +1477,7 @@
  "john_chrysostom_bishop": {
   "file": "john_chrysostom_bishop-7624ee0a.jpg",
   "commons_file": "Johnchrysostom.jpg",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Johnchrysostom.jpg",
   "layout": "portrait",
@@ -1489,7 +1489,7 @@
  "john_damascene_priest": {
   "file": "john_damascene_priest-01a73efe.jpg",
   "commons_file": "Athonite_Fresco_Icon_of_Saint_John_of_Damascus_2.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Athonite_Fresco_Icon_of_Saint_John_of_Damascus_2.jpg",
   "layout": "portrait",
@@ -1562,7 +1562,7 @@
  "john_mary_vianney_priest": {
   "file": "john_mary_vianney_priest-def885f6.jpg",
   "commons_file": "Portrait_authentique_du_Saint_Curé_d'Ars,_exécute_d'après_nature_-_btv1b10571201r.jpg",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_authentique_du_Saint_Cur%C3%A9_d%27Ars,_ex%C3%A9cute_d%27apr%C3%A8s_nature_-_btv1b10571201r.jpg",
   "layout": "portrait",
@@ -1686,7 +1686,7 @@
  "juan_diego_cuauhtlatoatzin": {
   "file": "juan_diego_cuauhtlatoatzin-85b239ac.jpg",
   "commons_file": "San_Juan_Diego_con_el_ayate.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:San_Juan_Diego_con_el_ayate.jpg",
   "layout": "portrait",
@@ -1773,7 +1773,7 @@
  "margaret_mary_alacoque_virgin": {
   "file": "margaret_mary_alacoque_virgin-bab6a96d.jpg",
   "commons_file": "La_Visione_del_Cuore_di_Gesù_di_S.Margherita_Maria_Alacoque.jpg",
-  "artist": "Unknown artistUnknown artist",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:La_Visione_del_Cuore_di_Ges%C3%B9_di_S.Margherita_Maria_Alacoque.jpg",
   "layout": "portrait",
@@ -1823,7 +1823,7 @@
  "martin_i_pope": {
   "file": "martin_i_pope-a52c2411.jpg",
   "commons_file": "Pope_Martin_I_taken_prisoner,_653.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Pope_Martin_I_taken_prisoner,_653.jpg",
   "layout": "portrait",
@@ -1886,7 +1886,7 @@
  "mary_mother_of_the_church": {
   "file": "mary_mother_of_the_church-4b68c56b.jpg",
   "commons_file": "Maino_Pentecostés,_1620-1625._Museo_del_Prado.jpg",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Maino_Pentecost%C3%A9s,_1620-1625._Museo_del_Prado.jpg",
   "layout": "portrait",
@@ -2085,7 +2085,7 @@
   "crop": "face"
  },
  "our_lady_of_guadalupe": {
-  "file": "our_lady_of_guadalupe-eeb7437c.jpg",
+  "file": "our_lady_of_guadalupe-0b716e22.jpg",
   "commons_file": "1531_Nuestra_Señora_de_Guadalupe_anagoria.jpg",
   "artist": "God (1531 presented by Juan Diego)",
   "license": "Public domain",
@@ -2093,8 +2093,8 @@
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3168,
-  "height": 4752
+  "width": 1600,
+  "height": 2400
  },
  "our_lady_of_loreto": {
   "file": "our_lady_of_loreto-2e2b15c6.jpg",
@@ -2248,7 +2248,7 @@
  "perpetua_of_carthage_and_felicity_of_carthage_martyrs": {
   "file": "perpetua_of_carthage_and_felicity_of_carthage_martyrs-5ff3d640.jpg",
   "commons_file": "Unknown_-_Sacra_Conversazione_Mary_with_the_Child,_St_Felicity_of_Carthage_and_St_Perpetua_-_Śr.37_-_National_Museum_in_Warsaw.jpg",
-  "artist": "anonymous",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Unknown_-_Sacra_Conversazione_Mary_with_the_Child,_St_Felicity_of_Carthage_and_St_Perpetua_-_%C5%9Ar.37_-_National_Museum_in_Warsaw.jpg",
   "layout": "portrait",
@@ -2273,7 +2273,7 @@
  "peter_canisius_priest": {
   "file": "peter_canisius_priest-e091eb5c.jpg",
   "commons_file": "Saint_Petrus_Canisius.jpg",
-  "artist": "AnonymousUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Saint_Petrus_Canisius.jpg",
   "layout": "portrait",
@@ -2422,7 +2422,7 @@
  "robert_bellarmine_bishop": {
   "file": "robert_bellarmine_bishop-643002c3.jpg",
   "commons_file": "Portret_van_kardinaal_Robertus_Bellarminus,_onbekend,_schilderij,_Museum_Plantin-Moretus_(Antwerpen)_-_MPM_V_IV_110.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "CC0",
   "source_page": "https://commons.wikimedia.org/wiki/File:Portret_van_kardinaal_Robertus_Bellarminus,_onbekend,_schilderij,_Museum_Plantin-Moretus_(Antwerpen)_-_MPM_V_IV_110.jpg",
   "layout": "portrait",
@@ -2696,7 +2696,7 @@
  "vincent_de_paul_priest": {
   "file": "vincent_de_paul_priest-1d292243.jpg",
   "commons_file": "Simon_François_de_Tours_-_Portrait_Vincent_de_Paul.jpeg",
-  "artist": "Simon François de Tours (1606-1671)",
+  "artist": "Simon François de Tours",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Fran%C3%A7ois_de_Tours_-_Portrait_Vincent_de_Paul.jpeg",
   "layout": "portrait",
@@ -2822,7 +2822,7 @@
  "divine_mercy_sunday": {
   "file": "divine_mercy_sunday-d516044c.jpg",
   "commons_file": "True_Original_Painting_Divina_Misericordia_Jesus_Trust_Faustina_Painter_Eugeniusz_Kazimirowski_1934.jpg",
-  "artist": "Eugeniusz Kazimirowski (1873-1939)",
+  "artist": "Eugeniusz Kazimirowski",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:True_Original_Painting_Divina_Misericordia_Jesus_Trust_Faustina_Painter_Eugeniusz_Kazimirowski_1934.jpg",
   "layout": "portrait",
@@ -2985,16 +2985,16 @@
   "crop": "face"
  },
  "season_ORDINARY_TIME_1": {
-  "file": "season_ORDINARY_TIME_1-14154b9f.jpg",
+  "file": "season_ORDINARY_TIME_1-ae70edb3.jpg",
   "commons_file": "Spas_vsederzhitel_sinay.jpg",
-  "artist": "Unknown artistUnknown artist",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2023,
-  "height": 3774
+  "width": 1170,
+  "height": 2309
  },
  "season_ORDINARY_TIME_2": {
   "file": "season_ORDINARY_TIME_2-35375836.jpg",
@@ -3126,7 +3126,7 @@
  "callistus_i_pope": {
   "file": "callistus_i_pope-00a5cff8.jpg",
   "commons_file": "Fresco_of_Pope_Callixtus_I_-_Basilica_of_Saint_Paul_Outside_the_Walls_(Before_1823).jpg",
-  "artist": "Unknown authorUnknown author;  Photo taken by Arnaldo Vescovo",
+  "artist": "Unknown artist (photo: Arnaldo Vescovo)",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_of_Pope_Callixtus_I_-_Basilica_of_Saint_Paul_Outside_the_Walls_(Before_1823).jpg",
   "layout": "portrait",
@@ -3138,7 +3138,7 @@
  "christopher_magallanes_priest_and_companions_martyrs": {
   "file": "christopher_magallanes_priest_and_companions_martyrs-372ccac2.jpg",
   "commons_file": "Cristobal.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Cristobal.jpg",
   "layout": "portrait",
@@ -3148,7 +3148,7 @@
   "height": 270
  },
  "cornelius_i_pope_and_cyprian_of_carthage_bishop_martyrs": {
-  "file": "cornelius_i_pope_and_cyprian_of_carthage_bishop_martyrs-1ae98ab2.jpg",
+  "file": "cornelius_i_pope_and_cyprian_of_carthage_bishop_martyrs-f74ff69e.jpg",
   "commons_file": "Heiliger_Cyprianus.jpg",
   "artist": "Master of Messkirch",
   "license": "Public domain",
@@ -3156,8 +3156,8 @@
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 910,
-  "height": 1986
+  "width": 1069,
+  "height": 2379
  },
  "damien_de_veuster_priest": {
   "file": "damien_de_veuster_priest-b4306060.jpg",
@@ -3174,7 +3174,7 @@
  "faustina_kowalska_virgin": {
   "file": "faustina_kowalska_virgin-5ff1a6ec.jpg",
   "commons_file": "Siostra_Faustyna_Kowalska_-_Płock_(1931).jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Siostra_Faustyna_Kowalska_-_P%C5%82ock_(1931).jpg",
   "layout": "portrait",
@@ -3186,7 +3186,7 @@
  "frances_xavier_cabrini_virgin": {
   "file": "frances_xavier_cabrini_virgin-af266fdc.jpg",
   "commons_file": "Mother_Cabrini.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Mother_Cabrini.jpg",
   "layout": "portrait",
@@ -3198,7 +3198,7 @@
  "francis_xavier_seelos_priest": {
   "file": "francis_xavier_seelos_priest-5b82d580.jpg",
   "commons_file": "Blessed_Francis_Xavier_Seelos.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Blessed_Francis_Xavier_Seelos.jpg",
   "layout": "portrait",
@@ -3234,7 +3234,7 @@
  "john_nepomucene_neumann_bishop": {
   "file": "john_nepomucene_neumann_bishop-b2afa0e7.jpg",
   "commons_file": "Rt._Rev._John_Nepomucene_Neumann,_half-length_portrait,_facing_left_LCCN96508709.jpg",
-  "artist": "Hollyer, Samuel, 1826-1919, engraver",
+  "artist": "Samuel Hollyer (engraver)",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Rt._Rev._John_Nepomucene_Neumann,_half-length_portrait,_facing_left_LCCN96508709.jpg",
   "layout": "portrait",
@@ -3246,7 +3246,7 @@
  "john_paul_ii_pope": {
   "file": "john_paul_ii_pope-8dbc48a6.jpg",
   "commons_file": "Pope_John_Paul_II_smile.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "CC BY 3.0 pl",
   "source_page": "https://commons.wikimedia.org/wiki/File:Pope_John_Paul_II_smile.jpg",
   "layout": "portrait",
@@ -3270,7 +3270,7 @@
  "josephine_bakhita_virgin": {
   "file": "josephine_bakhita_virgin-a30a10e2.jpg",
   "commons_file": "Bakhita_Szent_Jozefina.jpeg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Bakhita_Szent_Jozefina.jpeg",
   "layout": "portrait",
@@ -3282,7 +3282,7 @@
  "junipero_serra_priest": {
   "file": "junipero_serra_priest-a85115c3.jpg",
   "commons_file": "Engraving_of_Junípero_Serra_(1787)_(cropped).jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Engraving_of_Jun%C3%ADpero_Serra_(1787)_(cropped).jpg",
   "layout": "portrait",
@@ -3318,7 +3318,7 @@
  "katharine_drexel_virgin": {
   "file": "katharine_drexel_virgin-c07d3351.jpg",
   "commons_file": "Katharine_Drexel.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Katharine_Drexel.jpg",
   "layout": "portrait",
@@ -3342,7 +3342,7 @@
  "louis_grignion_de_montfort_priest": {
   "file": "louis_grignion_de_montfort_priest-052b2f6f.jpg",
   "commons_file": "Людовик_Мария_Гриньон_де_Монфор.jpg",
-  "artist": "Неизвестный автор",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D1%8E%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%93%D1%80%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD_%D0%B4%D0%B5_%D0%9C%D0%BE%D0%BD%D1%84%D0%BE%D1%80.jpg",
   "layout": "portrait",
@@ -3378,7 +3378,7 @@
  "marianne_cope_virgin": {
   "file": "marianne_cope_virgin-fe51d8d0.jpg",
   "commons_file": "Photograph_of_Mother_Marianne_Cope.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Mother_Marianne_Cope.jpg",
   "layout": "portrait",
@@ -3402,7 +3402,7 @@
  "martin_de_porres_religious": {
   "file": "martin_de_porres_religious-23024d70.jpg",
   "commons_file": "San_Martin_de_Porres_huaycan.jpg",
-  "artist": "AnonymousUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:San_Martin_de_Porres_huaycan.jpg",
   "layout": "portrait",
@@ -3414,7 +3414,7 @@
  "maximilian_mary_raymund_kolbe_priest": {
   "file": "maximilian_mary_raymund_kolbe_priest-417529f9.jpg",
   "commons_file": "Fr.Maximilian_Kolbe_in_1936.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Fr.Maximilian_Kolbe_in_1936.jpg",
   "layout": "portrait",
@@ -3426,7 +3426,7 @@
  "miguel_agustin_pro_priest": {
   "file": "miguel_agustin_pro_priest-ea7e34fd.jpg",
   "commons_file": "Miguel_Agustin_Pro_(1891-1927).jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Miguel_Agustin_Pro_(1891-1927).jpg",
   "layout": "portrait",
@@ -3450,7 +3450,7 @@
  "paul_of_the_cross_priest": {
   "file": "paul_of_the_cross_priest-39d5d4bb.jpg",
   "commons_file": "Saint_Paul_of_the_Cross._Line_engraving_by_G.B._Leonetti_aft_Wellcome_V0032822.jpg",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "CC BY 4.0",
   "source_page": "https://commons.wikimedia.org/wiki/File:Saint_Paul_of_the_Cross._Line_engraving_by_G.B._Leonetti_aft_Wellcome_V0032822.jpg",
   "layout": "portrait",
@@ -3522,7 +3522,7 @@
  "pius_francesco_forgione_priest": {
   "file": "pius_francesco_forgione_priest-a3c030c5.jpg",
   "commons_file": "Padre_Pio_portraitFXD.jpg",
-  "artist": "File:Padre Pio portrait.jpg: The original uploader was Manfredonia at Italian Wikipedia.\nderivative work: MisterNox",
+  "artist": "Unknown photographer",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Padre_Pio_portraitFXD.jpg",
   "layout": "portrait",
@@ -3534,7 +3534,7 @@
  "pius_x_pope": {
   "file": "pius_x_pope-ed10ccd9.jpg",
   "commons_file": "Pius_X,_by_Ernest_Walter_Histed_(retouched).jpg",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Pius_X,_by_Ernest_Walter_Histed_(retouched).jpg",
   "layout": "portrait",
@@ -3546,7 +3546,7 @@
  "rose_philippine_duchesne_virgin": {
   "file": "rose_philippine_duchesne_virgin-73fef30a.jpg",
   "commons_file": "DuchesneRSCJ.jpg",
-  "artist": "AnonymousUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:DuchesneRSCJ.jpg",
   "layout": "portrait",
@@ -3558,7 +3558,7 @@
  "sharbel_makhluf_priest": {
   "file": "sharbel_makhluf_priest-66e5e618.jpg",
   "commons_file": "Charbel.jpg",
-  "artist": "Unknown (Old Photo)",
+  "artist": "Unknown photographer",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Charbel.jpg",
   "layout": "portrait",
@@ -3570,7 +3570,7 @@
  "teresa_benedicta_of_the_cross_stein_virgin": {
   "file": "teresa_benedicta_of_the_cross_stein_virgin-9aa41f7a.jpg",
   "commons_file": "Edith_Stein_(ca._1938-1939).jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Edith_Stein_(ca._1938-1939).jpg",
   "layout": "portrait",
@@ -4050,7 +4050,7 @@
  "ordinary_time_25_sunday_b": {
   "file": "ordinary_time_25_sunday_b-7141badd.jpg",
   "commons_file": "Correggio_(Antonio_Allegri)_(Italian)_-_Head_of_Christ_-_Google_Art_Project.jpg",
-  "artist": "Correggio (Antonio Allegri) (Italian, about 1489 - 1534) (1489 - 1534) – artist (Italian) Details on Google Art Project",
+  "artist": "Correggio",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Correggio_(Antonio_Allegri)_(Italian)_-_Head_of_Christ_-_Google_Art_Project.jpg",
   "layout": "portrait",
@@ -4086,7 +4086,7 @@
  "ordinary_time_32_sunday_b": {
   "file": "ordinary_time_32_sunday_b-353a6620.jpg",
   "commons_file": "World_missions_and_your_dollar_(electronic_resource)_(1920)_(14579008568).jpg",
-  "artist": "Clark, Elmer Talmage, 1886-1966",
+  "artist": "Elmer Talmage Clark",
   "license": "No restrictions",
   "source_page": "https://commons.wikimedia.org/wiki/File:World_missions_and_your_dollar_(electronic_resource)_(1920)_(14579008568).jpg",
   "layout": "portrait",
@@ -4182,7 +4182,7 @@
  "advent_1_thursday": {
   "file": "advent_1_thursday-e7d39f1e.jpg",
   "commons_file": "Het_huis_gebouwd_op_een_rots_(Aedificare_super_petram)_Matheus_724._NL-HlmNHA_1477_53008511.JPG",
-  "artist": "Goltzius, Hendrick (1558-1617)",
+  "artist": "Hendrick Goltzius",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Het_huis_gebouwd_op_een_rots_(Aedificare_super_petram)_Matheus_724._NL-HlmNHA_1477_53008511.JPG",
   "layout": "portrait",
@@ -4302,7 +4302,7 @@
  "friday_after_epiphany": {
   "file": "friday_after_epiphany-a5a502cc.jpg",
   "commons_file": "CodexEgberti-Fol021vCleansingOfTheLeper.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:CodexEgberti-Fol021vCleansingOfTheLeper.jpg",
   "layout": "portrait",
@@ -4350,7 +4350,7 @@
  "ordinary_time_1_saturday": {
   "file": "ordinary_time_1_saturday-65f27c44.jpg",
   "commons_file": "The_Feast_in_the_House_of_Levi_(edited).jpg",
-  "artist": "Photo: Oakenchips\n\nLight correction and resize: Paolo Villa",
+  "artist": "Photo: Oakenchips and Paolo Villa",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:The_Feast_in_the_House_of_Levi_(edited).jpg",
   "layout": "portrait",
@@ -4398,7 +4398,7 @@
  "ordinary_time_7_wednesday": {
   "file": "ordinary_time_7_wednesday-22d84e93.jpg",
   "commons_file": "Ethiopian_-_Triptych_Center_Panel_with_Mary_and_Her_Son_and_Christ_Teaching_the_Apostles_-_Walters_367_-_Open.jpg",
-  "artist": "Anonymous (Ethiopia)Unknown author",
+  "artist": "Unknown Ethiopian artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Ethiopian_-_Triptych_Center_Panel_with_Mary_and_Her_Son_and_Christ_Teaching_the_Apostles_-_Walters_367_-_Open.jpg",
   "layout": "portrait",
@@ -4446,7 +4446,7 @@
  "ordinary_time_10_thursday": {
   "file": "ordinary_time_10_thursday-58e45180.jpg",
   "commons_file": "De_verzoening_van_Jacob_en_Ezau_Rijksmuseum_SK-A-346.jpeg",
-  "artist": "AnonymousUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:De_verzoening_van_Jacob_en_Ezau_Rijksmuseum_SK-A-346.jpeg",
   "layout": "portrait",
@@ -4518,7 +4518,7 @@
  "ordinary_time_12_wednesday": {
   "file": "ordinary_time_12_wednesday-362811a1.jpg",
   "commons_file": "Lorrain,_Claude_-_The_Sermon_on_the_Mount_(Frick_Collection;_c._1656).jpg",
-  "artist": "Claude Lorrain (c. 1600 - 1682)",
+  "artist": "Claude Lorrain",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Lorrain,_Claude_-_The_Sermon_on_the_Mount_(Frick_Collection;_c._1656).jpg",
   "layout": "portrait",
@@ -4710,7 +4710,7 @@
  "ordinary_time_23_monday": {
   "file": "ordinary_time_23_monday-53df69b8.jpg",
   "commons_file": "Hitda-Codex-Healing_of_a_man_with_a_withered_hand.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Hitda-Codex-Healing_of_a_man_with_a_withered_hand.jpg",
   "layout": "portrait",
@@ -4782,7 +4782,7 @@
  "ordinary_time_28_tuesday": {
   "file": "ordinary_time_28_tuesday-c9916ab8.jpg",
   "commons_file": "Maria_Felice_Tibaldi_Subleyras_-_Dinner_at_the_House_of_the_Pharisee_-_Google_Art_Project.jpg",
-  "artist": "Maria Felice Tibaldi Subleyras (1707 - 1770) – Miniaturist (Italian) Details on Google Art Project",
+  "artist": "Maria Felice Tibaldi Subleyras",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Maria_Felice_Tibaldi_Subleyras_-_Dinner_at_the_House_of_the_Pharisee_-_Google_Art_Project.jpg",
   "layout": "portrait",
@@ -4842,7 +4842,7 @@
  "ordinary_time_30_friday": {
   "file": "ordinary_time_30_friday-5474bb2a.jpg",
   "commons_file": "Christ_heals_a_man_with_dropsy_while_the_Pharisees_and_lawye_Wellcome_V0034861.jpg",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "CC BY 4.0",
   "source_page": "https://commons.wikimedia.org/wiki/File:Christ_heals_a_man_with_dropsy_while_the_Pharisees_and_lawye_Wellcome_V0034861.jpg",
   "layout": "portrait",
@@ -4998,7 +4998,7 @@
  "lent_1_tuesday": {
   "file": "lent_1_tuesday-a02e54d3.jpg",
   "commons_file": "The_Lord_'s_Prayer_Christ_teaching_the_Apostles_to_say_the_Lord_'s_Prayer_PK-P-127.338,_PK-1890-P-9.tiff",
-  "artist": "Brosamer, Hans (c.1495-1554)",
+  "artist": "Hans Brosamer",
   "license": "CC BY 4.0",
   "source_page": "https://commons.wikimedia.org/wiki/File:The_Lord_%27s_Prayer_Christ_teaching_the_Apostles_to_say_the_Lord_%27s_Prayer_PK-P-127.338,_PK-1890-P-9.tiff",
   "layout": "portrait",
@@ -5274,7 +5274,7 @@
  "easter_time_6_wednesday": {
   "file": "easter_time_6_wednesday-e4eed351.jpg",
   "commons_file": "Hosios_Loukas_Katholikon_(sanctuary_vault)_-_Pentecost_01.jpg",
-  "artist": "AnonymousUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Hosios_Loukas_Katholikon_(sanctuary_vault)_-_Pentecost_01.jpg",
   "layout": "portrait",
@@ -5286,7 +5286,7 @@
  "easter_time_6_saturday": {
   "file": "easter_time_6_saturday-fc94c28a.jpg",
   "commons_file": "Painting_of_Christ_in_Gethsemane.jpg",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Painting_of_Christ_in_Gethsemane.jpg",
   "layout": "portrait",
@@ -5632,16 +5632,16 @@
   "height": 3004
  },
  "easter_time_2_thursday": {
-  "file": "easter_time_2_thursday-14154b9f.jpg",
+  "file": "easter_time_2_thursday-ae70edb3.jpg",
   "commons_file": "Spas_vsederzhitel_sinay.jpg",
-  "artist": "Unknown artistUnknown artist",
+  "artist": "Unknown artist",
   "license": "Public domain",
   "source_page": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2023,
-  "height": 3774
+  "width": 1170,
+  "height": 2309
  },
  "easter_time_2_friday": {
   "file": "easter_time_2_friday-b07c5ceb.jpg",
@@ -5802,7 +5802,7 @@
  "lent_4_monday": {
   "file": "lent_4_monday-555f0b53.jpg",
   "commons_file": "Northern_India,_Uttar_Pradesh,_Allahabad,_Mughal_period_-_Jesus_Heals_the_Nobleman's_Son_in_Capernaum,_from_a_Mirror_of_Holiness_(Mir_-_2005.145.17_-_Cleveland_Museum_of_Art.tif",
-  "artist": "Unknown",
+  "artist": "Unknown artist",
   "license": "CC0",
   "source_page": "https://commons.wikimedia.org/wiki/File:Northern_India,_Uttar_Pradesh,_Allahabad,_Mughal_period_-_Jesus_Heals_the_Nobleman%27s_Son_in_Capernaum,_from_a_Mirror_of_Holiness_(Mir_-_2005.145.17_-_Cleveland_Museum_of_Art.tif",
   "layout": "portrait",
