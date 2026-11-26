@@ -1,48 +1,48 @@
 {
  "adalbert_of_prague_bishop": {
-  "file": "adalbert_of_prague_bishop-94c1495e.jpg",
+  "file": "adalbert_of_prague_bishop_2-2fb35d91.jpg",
   "article": "Adalbert of Prague",
   "article_url": "https://en.wikipedia.org/wiki/Adalbert_of_Prague",
-  "commons_file": "Death_of_Saint_Adalbert_of_Prague,_Gniezno_Doors_ca._1170.png",
-  "artist": "Mathiasrex, Maciej Szczepańczyk",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Death_of_Saint_Adalbert_of_Prague,_Gniezno_Doors_ca._1170.png",
-  "width": 3210,
-  "height": 2005,
+  "commons_file": "Unknown_-_St_Adalbert_(obverse),_Mary_from_the_scene_of_the_Annunciation_(reverse)._Wing_of_the_altar_retable_from_Snoza_-_MNK_I-329_-_National_Museum_Kraków.jpg",
+  "artist": "Unknown painter",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Unknown_-_St_Adalbert_(obverse),_Mary_from_the_scene_of_the_Annunciation_(reverse)._Wing_of_the_altar_retable_from_Snoza_-_MNK_I-329_-_National_Museum_Krak%C3%B3w.jpg",
+  "width": 1280,
+  "height": 3466,
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "crop": "saliency"
+  "fy": 0.2,
+  "crop": "manual"
  },
  "agatha_of_sicily_virgin": {
-  "file": "agatha_of_sicily_virgin-21fade30.jpg",
+  "file": "agatha_of_sicily_virgin_2-38df5f08.jpg",
   "article": "Agatha of Sicily",
   "article_url": "https://en.wikipedia.org/wiki/Agatha_of_Sicily",
-  "commons_file": "Zurbaran_Sainte_Agathe.jpg",
-  "artist": "Francisco de Zurbarán",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Zurbaran_Sainte_Agathe.jpg",
-  "width": 3840,
-  "height": 5120,
+  "commons_file": "Lorenzo_Lippi_-_Saint_Agatha_-_Google_Art_Project.jpg",
+  "artist": "Lorenzo Lippi",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lippi_-_Saint_Agatha_-_Google_Art_Project.jpg",
+  "width": 1920,
+  "height": 2217,
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "crop": "face"
+  "fy": 0.3,
+  "crop": "manual"
  },
  "agnes_of_rome_virgin": {
-  "file": "agnes_of_rome_virgin-f58cb3bb.jpg",
+  "file": "agnes_of_rome_virgin_2-9073625e.jpg",
   "article": "Agnes of Rome",
   "article_url": "https://en.wikipedia.org/wiki/Agnes_of_Rome",
-  "commons_file": "Dresden,_Gemäldegalerie_Alte_Meister,_Jusepe_de_Ribera,_heilige_Agnes.jpg",
-  "artist": "Dguendel",
-  "license": "CC BY 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Dresden,_Gem%C3%A4ldegalerie_Alte_Meister,_Jusepe_de_Ribera,_heilige_Agnes.jpg",
-  "width": 2906,
-  "height": 3847,
+  "commons_file": "Francesco_Furini_-_Saint_Agnes_of_Rome.jpg",
+  "artist": "Francesco Furini",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Saint_Agnes_of_Rome.jpg",
+  "width": 1920,
+  "height": 2403,
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "crop": "face"
+  "fy": 0.35,
+  "crop": "manual"
  },
  "albert_the_great_bishop": {
   "file": "albert_the_great_bishop-0e8b0615.jpg",
@@ -438,19 +438,19 @@
   "crop": "saliency"
  },
  "bernard_of_clairvaux_abbot": {
-  "file": "bernard_of_clairvaux_abbot-7525d7b7.jpg",
+  "file": "bernard_of_clairvaux_abbot-7be8df7b.jpg",
   "article": "Bernard of Clairvaux",
   "article_url": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux",
-  "commons_file": "Filippino_Lippi,_Apparizione_della_Vergine_a_san_Bernardo,_1482-86,_01.JPG",
+  "commons_file": "Bernardo_claraval_filippino_lippiFXD.jpg",
   "artist": "Sailko",
-  "license": "CC BY 3.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi,_Apparizione_della_Vergine_a_san_Bernardo,_1482-86,_01.JPG",
-  "width": 2382,
-  "height": 2724,
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Bernardo_claraval_filippino_lippiFXD.jpg",
+  "width": 1280,
+  "height": 1357,
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "crop": "face"
+  "crop": "manual"
  },
  "andrew_dung_lac_priest_and_companions_martyrs": {
   "file": "andrew_dung_lac_priest_and_companions_martyrs-6a9dada8.jpg",
@@ -592,16 +592,17 @@
   "height": 2870
  },
  "casimir_of_poland": {
-  "file": "casimir_of_poland-641581fa.jpg",
-  "commons_file": "Saint_Casimir_in_Vilnius_Cathedral.jpg",
-  "artist": "Alistair young",
-  "license": "CC BY 2.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Saint_Casimir_in_Vilnius_Cathedral.jpg",
+  "file": "casimir_of_poland_2-21f54c6b.jpg",
+  "commons_file": "Saint_Casimir_Polish_Crown_Prince_MNK_IX_39.jpg",
+  "artist": "Jan Matejko",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Saint_Casimir_Polish_Crown_Prince_MNK_IX_39.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 1504,
-  "height": 2136
+  "width": 1920,
+  "height": 2119,
+  "crop": "manual"
  },
  "catherine_of_alexandria_virgin": {
   "file": "catherine_of_alexandria_virgin-1a410e98.jpg",
@@ -641,17 +642,17 @@
   "height": 6162
  },
  "chair_of_saint_peter_the_apostle": {
-  "file": "chair_of_saint_peter_the_apostle-ac35f876.jpg",
-  "commons_file": "Rom,_Vatikan,_Petersdom,_Cathedra_Petri_(Bernini)_2.jpg",
-  "artist": "Dnalor 01",
-  "license": "CC BY-SA 3.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Rom,_Vatikan,_Petersdom,_Cathedra_Petri_(Bernini)_2.jpg",
+  "file": "chair_of_saint_peter_the_apostle_2-d25d73b7.jpg",
+  "commons_file": "Roderic_d'Osona_-_Saint_Peter_Enthroned_-_Google_Art_Project.jpg",
+  "artist": "Rodrigo de Osona",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Roderic_d%27Osona_-_Saint_Peter_Enthroned_-_Google_Art_Project.jpg",
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 1670,
-  "height": 2501,
-  "crop": "saliency"
+  "fy": 0.35,
+  "width": 1920,
+  "height": 3574,
+  "crop": "manual"
  },
  "charles_borromeo_bishop": {
   "file": "charles_borromeo_bishop-45a81e09.jpg",
@@ -781,16 +782,17 @@
   "crop": "face"
  },
  "damasus_i_pope": {
-  "file": "damasus_i_pope-797484eb.jpg",
-  "commons_file": "Museu_Alberto_Sampaio_(94).jpg",
-  "artist": "Unknown artist",
+  "file": "damasus_i_pope_2-2dc01500.jpg",
+  "commons_file": "Botticini,_Francesco_-_Saint_Jerome_in_Penitence_with_Saints_and_Donors_-_National_Gallery_London.jpg",
+  "artist": "Francesco Botticini",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Museu_Alberto_Sampaio_(94).jpg",
-  "layout": "portrait",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Botticini,_Francesco_-_Saint_Jerome_in_Penitence_with_Saints_and_Donors_-_National_Gallery_London.jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 2288,
-  "height": 5450
+  "fy": 0.45,
+  "width": 3840,
+  "height": 3441,
+  "crop": "manual"
  },
  "dedication_of_the_basilica_of_saint_mary_major": {
   "file": "dedication_of_the_basilica_of_saint_mary_major-1e781930.jpg",
@@ -819,17 +821,17 @@
   "crop": "saliency"
  },
  "dedication_of_the_lateran_basilica": {
-  "file": "dedication_of_the_lateran_basilica-76a8c4d6.jpg",
-  "commons_file": "Roma,_Basilica_di_San_Giovanni_in_Laterano,_facciata_(1).jpg",
-  "artist": "Palickap",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Roma,_Basilica_di_San_Giovanni_in_Laterano,_facciata_(1).jpg",
-  "layout": "portrait",
+  "file": "dedication_of_the_lateran_basilica_2-8365fa93.jpg",
+  "commons_file": "Giacomo_van_Lint_Lateranbasilika_Rom.jpg",
+  "artist": "Giacomo van Lint",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Giacomo_van_Lint_Lateranbasilika_Rom.jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
+  "fy": 0.45,
   "width": 3840,
-  "height": 2880,
-  "crop": "saliency"
+  "height": 2512,
+  "crop": "manual"
  },
  "denis_of_paris_bishop_and_companions_martyrs": {
   "file": "denis_of_paris_bishop_and_companions_martyrs-caff3ce8.jpg",
@@ -858,16 +860,17 @@
   "crop": "face"
  },
  "easter_sunday": {
-  "file": "easter_sunday-49d978f3.jpg",
-  "commons_file": "Piero_della_Francesca_-_Resurrection_-_WGA17609.jpg",
-  "artist": "Piero della Francesca",
+  "file": "easter_sunday_2-d7b86102.jpg",
+  "commons_file": "",
+  "artist": "Unknown Netherlandish painter",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_Resurrection_-_WGA17609.jpg",
-  "layout": "portrait",
+  "source_page": "http://hdl.handle.net/10934/RM0001.COLLECT.9039",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 1130,
-  "height": 1200
+  "fy": 0.45,
+  "width": 2946,
+  "height": 2417,
+  "crop": "manual"
  },
  "easter_monday": {
   "file": "easter_monday-53143f67.jpg",
@@ -1499,16 +1502,17 @@
   "height": 1810
  },
  "john_de_brebeuf_isaac_jogues_priests_and_companions_martyrs": {
-  "file": "john_de_brebeuf_isaac_jogues_priests_and_companions_martyrs-3d5fb72e.jpg",
-  "commons_file": "La_martyre_des_pères_Jean_de_Brébeuf_et_Gabriel_Lalemant.jpg",
-  "artist": "Pierre5018",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:La_martyre_des_p%C3%A8res_Jean_de_Br%C3%A9beuf_et_Gabriel_Lalemant.jpg",
+  "file": "john_de_brebeuf_isaac_jogues_priests_and_companions_martyrs_2-53be7b14.jpg",
+  "commons_file": "Father_Isaac_Jogues,_S.J.,_half-length_portrait,_facing_right_LCCN90714574.jpg",
+  "artist": "Unknown artist",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Father_Isaac_Jogues,_S.J.,_half-length_portrait,_facing_right_LCCN90714574.jpg",
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 1673,
-  "height": 2687
+  "fy": 0.35,
+  "width": 1920,
+  "height": 2386,
+  "crop": "manual"
  },
  "john_fisher_bishop_and_thomas_more_martyrs": {
   "file": "john_fisher_bishop_and_thomas_more_martyrs-d57a2a95.jpg",
@@ -1696,16 +1700,17 @@
   "height": 2952
  },
  "lawrence_of_brindisi_priest": {
-  "file": "lawrence_of_brindisi_priest-f4b1eabf.jpg",
-  "commons_file": "Francavilla_Fontana_dipinto_San_Lorenzo_da_Brindisi.jpg",
-  "artist": "Saggittarius A",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Francavilla_Fontana_dipinto_San_Lorenzo_da_Brindisi.jpg",
+  "file": "lawrence_of_brindisi_priest_2-8de0d650.jpg",
+  "commons_file": "Portret_van_Laurentius_von_Brindisi,_RP-P-1907-130.jpg",
+  "artist": "Franz Heissig",
+  "license": "CC0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Portret_van_Laurentius_von_Brindisi,_RP-P-1907-130.jpg",
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 2736,
-  "height": 3648
+  "fy": 0.35,
+  "width": 960,
+  "height": 1461,
+  "crop": "manual"
  },
  "lawrence_of_rome_deacon": {
   "file": "lawrence_of_rome_deacon-9f238917.jpg",
@@ -1872,16 +1877,17 @@
   "height": 2796
  },
  "mary_mother_of_god": {
-  "file": "mary_mother_of_god-31cb7ade.jpg",
-  "commons_file": "Virgin_of_Vladimir.jpg",
+  "file": "mary_mother_of_god-05f6a684.jpg",
+  "commons_file": "Vladimirskaja_ikona_Božiej_Materi.jpg",
   "artist": "Michel Bakni",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Virgin_of_Vladimir.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Vladimirskaja_ikona_Bo%C5%BEiej_Materi.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3840,
-  "height": 5592
+  "width": 1920,
+  "height": 2888,
+  "crop": "manual"
  },
  "mary_mother_of_the_church": {
   "file": "mary_mother_of_the_church-4b68c56b.jpg",
@@ -1946,17 +1952,17 @@
   "height": 4500
  },
  "most_holy_body_and_blood_of_christ": {
-  "file": "most_holy_body_and_blood_of_christ-a07831e8.jpg",
-  "commons_file": "Raphael,_Disputation_of_the_Holy_Sacrament,_1509-10,_Vatican_Museums_(48759463557).jpg",
-  "artist": "Richard Mortel from Riyadh, Saudi Arabia",
-  "license": "CC BY 2.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Raphael,_Disputation_of_the_Holy_Sacrament,_1509-10,_Vatican_Museums_(48759463557).jpg",
-  "layout": "portrait",
+  "file": "most_holy_body_and_blood_of_christ-ddbe0fbd.jpg",
+  "commons_file": "02_Disputation_of_the_Holy_Sacrament_Without_Labels.jpg",
+  "artist": "Raphael (photo: NateBergin)",
+  "license": "CC BY 4.0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:02_Disputation_of_the_Holy_Sacrament_Without_Labels.jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
+  "fy": 0.45,
   "width": 3840,
-  "height": 2448,
-  "crop": "saliency"
+  "height": 2574,
+  "crop": "manual"
  },
  "most_holy_name_of_jesus": {
   "file": "most_holy_name_of_jesus-8e7f89b7.jpg",
@@ -2097,16 +2103,17 @@
   "height": 2400
  },
  "our_lady_of_loreto": {
-  "file": "our_lady_of_loreto-2e2b15c6.jpg",
-  "commons_file": "Madonna_di_Loreto,_or_Transport_of_the_Holy_House,_by_Domenico_Fiasella,_c._1643,_oil_on_canvas_-_Museo_Diocesano_(Genoa)_-_DSC01861.JPG",
-  "artist": "Domenico Fiasella",
-  "license": "CC0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Madonna_di_Loreto,_or_Transport_of_the_Holy_House,_by_Domenico_Fiasella,_c._1643,_oil_on_canvas_-_Museo_Diocesano_(Genoa)_-_DSC01861.JPG",
+  "file": "our_lady_of_loreto_2-4cae812b.jpg",
+  "commons_file": "Madonna_di_Loreto-Caravaggio_(c.1604-6).jpg",
+  "artist": "Caravaggio",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Madonna_di_Loreto-Caravaggio_(c.1604-6).jpg",
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3123,
-  "height": 4688
+  "fy": 0.25,
+  "width": 3840,
+  "height": 6566,
+  "crop": "manual"
  },
  "our_lady_of_lourdes": {
   "file": "our_lady_of_lourdes-d58944e9.jpg",
@@ -2283,16 +2290,17 @@
   "height": 1500
  },
  "peter_chrysologus_bishop": {
-  "file": "peter_chrysologus_bishop-75cff4da.jpg",
-  "commons_file": "Saints_Peter_Chrysologus,_Romuald_and_Peter_Damian_by_Giuseppe_Milani_-_Duomo_-_Ravenna_2016.jpg",
-  "artist": "José Luiz",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Saints_Peter_Chrysologus,_Romuald_and_Peter_Damian_by_Giuseppe_Milani_-_Duomo_-_Ravenna_2016.jpg",
+  "file": "peter_chrysologus_bishop_2-5d1be095.jpg",
+  "commons_file": "St._Peter_Chrysologus,_Bishop_Met_DP891239.jpg",
+  "artist": "Jacques Callot",
+  "license": "CC0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:St._Peter_Chrysologus,_Bishop_Met_DP891239.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 1852,
-  "height": 3048
+  "width": 1280,
+  "height": 1594,
+  "crop": "manual"
  },
  "philip_and_james_apostles": {
   "file": "philip_and_james_apostles-159af43a.jpg",
@@ -2481,16 +2489,17 @@
   "height": 6526
  },
  "seven_holy_founders_of_the_servite_order": {
-  "file": "seven_holy_founders_of_the_servite_order-0fbb7c4c.jpg",
-  "commons_file": "Gaspare_diziani,_la_madonna_presenta_il_cristo_morto_ai_sette_santi_fondatori_dei_serviti,_1750_ca.jpg",
-  "artist": "Francesco Bini",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Gaspare_diziani,_la_madonna_presenta_il_cristo_morto_ai_sette_santi_fondatori_dei_serviti,_1750_ca.jpg",
+  "file": "seven_holy_founders_of_the_servite_order_2-7fc3b6bb.jpg",
+  "commons_file": "Agostino_Masucci_-_The_Madonna_with_the_Seven_Founders_of_the_Servite_Order_-_1977.485_-_Art_Institute_of_Chicago.jpg",
+  "artist": "Agostino Masucci",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Agostino_Masucci_-_The_Madonna_with_the_Seven_Founders_of_the_Servite_Order_-_1977.485_-_Art_Institute_of_Chicago.jpg",
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3832,
-  "height": 4952
+  "fy": 0.35,
+  "width": 1920,
+  "height": 2851,
+  "crop": "manual"
  },
  "simon_and_jude_apostles": {
   "file": "simon_and_jude_apostles-bd366dbe.jpg",
@@ -2582,17 +2591,17 @@
   "crop": "face"
  },
  "teresa_of_jesus_of_avila_virgin": {
-  "file": "teresa_of_jesus_of_avila_virgin-ebf91f37.jpg",
-  "commons_file": "Ecstasy_of_Saint_Teresa_September_2015-2a.jpg",
-  "artist": "Gian Lorenzo Bernini",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Ecstasy_of_Saint_Teresa_September_2015-2a.jpg",
+  "file": "teresa_of_jesus_of_avila_virgin_2-540c2072.jpg",
+  "commons_file": "",
+  "artist": "Peter Paul Rubens",
+  "license": "CC0",
+  "source_page": "https://www.metmuseum.org/art/collection/search/437542",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3840,
-  "height": 6085,
-  "crop": "face"
+  "width": 3094,
+  "height": 4000,
+  "crop": "manual"
  },
  "thanksgiving_day": {
   "file": "thanksgiving_day-9a6fce4c.jpg",
@@ -2771,29 +2780,30 @@
   "crop": "face"
  },
  "palm_sunday_of_the_passion_of_the_lord": {
-  "file": "palm_sunday_of_the_passion_of_the_lord-ac639879.jpg",
-  "commons_file": "Stadtmuseum_Münster-Baegert-Einzug_nach_Jerusalem_DSC9782.jpg",
-  "artist": "Jan Baegert",
-  "license": "CC0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Stadtmuseum_M%C3%BCnster-Baegert-Einzug_nach_Jerusalem_DSC9782.jpg",
-  "layout": "portrait",
+  "file": "palm_sunday_of_the_passion_of_the_lord_2-e946e22a.jpg",
+  "commons_file": "",
+  "artist": "Adriaen van Nieulandt",
+  "license": "Public domain",
+  "source_page": "https://open.smk.dk/artwork/image/kmssp256",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3365,
-  "height": 4271
+  "fy": 0.45,
+  "width": 3543,
+  "height": 2675,
+  "crop": "manual"
  },
  "thursday_of_the_lords_supper": {
-  "file": "thursday_of_the_lords_supper-69f4b784.jpg",
-  "commons_file": "Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498).jpg",
+  "file": "thursday_of_the_lords_supper-72890b4d.jpg",
+  "commons_file": "The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
   "artist": "Leonardo da Vinci",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498).jpg",
-  "layout": "portrait",
+  "source_page": "https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
+  "fy": 0.45,
   "width": 3840,
-  "height": 2001,
-  "crop": "saliency"
+  "height": 1920,
+  "crop": "manual"
  },
  "friday_of_the_passion_of_the_lord": {
   "file": "friday_of_the_passion_of_the_lord-74572c9b.jpg",
@@ -3112,16 +3122,17 @@
   "crop": "saliency"
  },
  "day_of_prayer_for_the_legal_protection_of_unborn_children": {
-  "file": "day_of_prayer_for_the_legal_protection_of_unborn_children-624056d9.jpg",
-  "commons_file": "Piero_della_francesca,_Madonna_del_Parto,_1455_ca._08.JPG",
-  "artist": "Sailko",
-  "license": "CC BY 3.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Piero_della_francesca,_Madonna_del_Parto,_1455_ca._08.JPG",
+  "file": "day_of_prayer_for_the_legal_protection_of_unborn_children_2-5980813c.jpg",
+  "commons_file": "(Castres)_Alonso_Cano_-_La_Visitation_-_Musée_Goya.jpg",
+  "artist": "Alonso Cano (photo: Didier Descouens)",
+  "license": "CC BY-SA 4.0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:(Castres)_Alonso_Cano_-_La_Visitation_-_Mus%C3%A9e_Goya.jpg",
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 2304,
-  "height": 3332
+  "fy": 0.35,
+  "width": 3840,
+  "height": 4823,
+  "crop": "manual"
  },
  "callistus_i_pope": {
   "file": "callistus_i_pope-00a5cff8.jpg",
@@ -3676,16 +3687,17 @@
   "height": 2717
  },
  "easter_time_5_sunday_b": {
-  "file": "easter_time_5_sunday_b-741206dd.jpg",
-  "commons_file": "Icon_with_Christ_the_Vine_(16th_c.)_(8384468942).jpg",
-  "artist": "Tilemahos Efthimiadis from Athens, Greece",
-  "license": "CC BY-SA 2.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Icon_with_Christ_the_Vine_(16th_c.)_(8384468942).jpg",
+  "file": "easter_time_5_sunday_b_2-f7aec366.jpg",
+  "commons_file": "Christ_as_the_vine;_the_Apostles_and_Evangelists_as_branches_Wellcome_V0033382.jpg",
+  "artist": "Wellcome Collection",
+  "license": "CC BY 4.0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Christ_as_the_vine;_the_Apostles_and_Evangelists_as_branches_Wellcome_V0033382.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2744,
-  "height": 2744
+  "width": 1920,
+  "height": 3220,
+  "crop": "manual"
  },
  "easter_time_6_sunday_b": {
   "file": "easter_time_6_sunday_b-da2d96e9.jpg",
@@ -3772,16 +3784,17 @@
   "height": 4180
  },
  "ordinary_time_24_sunday_b": {
-  "file": "ordinary_time_24_sunday_b-1664654f.jpg",
-  "commons_file": "Perugino,_Consegna_delle_chiavi,_Cappella_Sistina_(Roma)_-_panoramio.jpg",
+  "file": "ordinary_time_24_sunday_b-6ef459ba.jpg",
+  "commons_file": "Perugino_-_Entrega_de_las_llaves_a_San_Pedro_(Capilla_Sixtina,_1481-82).jpg",
   "artist": "Fabio Poggi",
-  "license": "CC BY 3.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Perugino,_Consegna_delle_chiavi,_Cappella_Sistina_(Roma)_-_panoramio.jpg",
-  "layout": "portrait",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Perugino_-_Entrega_de_las_llaves_a_San_Pedro_(Capilla_Sixtina,_1481-82).jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3072,
-  "height": 2048
+  "fy": 0.45,
+  "width": 1920,
+  "height": 1190,
+  "crop": "manual"
  },
  "ordinary_time_27_sunday_b": {
   "file": "ordinary_time_27_sunday_b-2f1ab803.jpg",
@@ -3892,16 +3905,17 @@
   "height": 2892
  },
  "holy_tuesday": {
-  "file": "holy_tuesday-f81e567c.jpg",
-  "commons_file": "Philippe_de_Champaigne_-_La_Cène_(Louvre,_INV_1124).jpg",
-  "artist": "Tangopaso",
+  "file": "holy_tuesday_2-e33da266.jpg",
+  "commons_file": "Last_supper-Philippe_de_Champaigne-MBA_Lyon_A40-IMG_0397.jpg",
+  "artist": "Philippe de Champaigne",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Philippe_de_Champaigne_-_La_C%C3%A8ne_(Louvre,_INV_1124).jpg",
-  "layout": "portrait",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Last_supper-Philippe_de_Champaigne-MBA_Lyon_A40-IMG_0397.jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 2816,
-  "height": 2112
+  "fy": 0.45,
+  "width": 3840,
+  "height": 2620,
+  "crop": "manual"
  },
  "holy_wednesday": {
   "file": "holy_wednesday-9968ccc9.jpg",
@@ -4240,28 +4254,30 @@
   "height": 5794
  },
  "advent_december_18": {
-  "file": "advent_december_18-5fe65f65.jpg",
-  "commons_file": "Le_Songe_de_saint_Joseph_de_Georges_de_La_Tour_-_Musée_d'Art_de_Nantes.jpg",
-  "artist": "Georges de La Tour",
+  "file": "advent_december_18_2-e12b7e77.jpg",
+  "commons_file": "Gerard_Seghers_-_Dream_of_St._Joseph.jpg",
+  "artist": "Gerard Seghers",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Le_Songe_de_saint_Joseph_de_Georges_de_La_Tour_-_Mus%C3%A9e_d%27Art_de_Nantes.jpg",
-  "layout": "portrait",
-  "fx": 0.5,
-  "fy": 0.4,
-  "width": 2887,
-  "height": 3223
+  "source_page": "https://commons.wikimedia.org/wiki/File:Gerard_Seghers_-_Dream_of_St._Joseph.jpg",
+  "layout": "landscape",
+  "fx": 0.6,
+  "fy": 0.45,
+  "width": 1920,
+  "height": 1315,
+  "crop": "manual"
  },
  "advent_december_19": {
-  "file": "advent_december_19-c368049b.jpg",
-  "commons_file": "Cappella_tornabuoni,_10,_annuncio_dell'angelo_a_zaccaria.jpg",
-  "artist": "Domenico Ghirlandaio",
-  "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Cappella_tornabuoni,_10,_annuncio_dell%27angelo_a_zaccaria.jpg",
-  "layout": "portrait",
+  "file": "advent_december_19_2-fe72a11e.jpg",
+  "commons_file": "",
+  "artist": "William Blake",
+  "license": "CC0",
+  "source_page": "https://www.metmuseum.org/art/collection/search/435671",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 2627,
-  "height": 1984
+  "fy": 0.45,
+  "width": 3915,
+  "height": 2760,
+  "crop": "manual"
  },
  "advent_december_20": {
   "file": "advent_december_20-66e18966.jpg",
@@ -4468,16 +4484,17 @@
   "height": 2964
  },
  "ordinary_time_11_monday": {
-  "file": "ordinary_time_11_monday-607bdaf4.jpg",
-  "commons_file": "Mocking_of_Christ_(Cristo_deriso),_Cell_7,_San_Marco,_Florence_(26073603703).jpg",
-  "artist": "Dimitris Kamaras from Athens, Greece",
-  "license": "CC BY 2.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Mocking_of_Christ_(Cristo_deriso),_Cell_7,_San_Marco,_Florence_(26073603703).jpg",
-  "layout": "portrait",
+  "file": "ordinary_time_11_monday_2-fe4fab4b.jpg",
+  "commons_file": "(Venice)_The_Mocking_of_Christ_by_Jacopo_Da_ponte_-_gallerie_Accademia_Venice.jpg",
+  "artist": "Jacopo Bassano",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:(Venice)_The_Mocking_of_Christ_by_Jacopo_Da_ponte_-_gallerie_Accademia_Venice.jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3456,
-  "height": 4608
+  "fy": 0.45,
+  "width": 3840,
+  "height": 1813,
+  "crop": "manual"
  },
  "ordinary_time_11_wednesday": {
   "file": "ordinary_time_11_wednesday-31616776.jpg",
@@ -4504,16 +4521,17 @@
   "height": 3193
  },
  "ordinary_time_11_friday": {
-  "file": "ordinary_time_11_friday-82bbabcc.jpg",
-  "commons_file": "Rembrandt_Parable_of_the_Rich_Man_(The_moneychanger)_1627_Gemäldegalerie_Berlin_9405.jpg",
+  "file": "ordinary_time_11_friday-280dda68.jpg",
+  "commons_file": "Rembrandt_-_The_Parable_of_the_Rich_Fool.jpg",
   "artist": "Dosseman",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_Parable_of_the_Rich_Man_(The_moneychanger)_1627_Gem%C3%A4ldegalerie_Berlin_9405.jpg",
-  "layout": "portrait",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Parable_of_the_Rich_Fool.jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3840,
-  "height": 2906
+  "fy": 0.45,
+  "width": 1920,
+  "height": 1427,
+  "crop": "manual"
  },
  "ordinary_time_12_wednesday": {
   "file": "ordinary_time_12_wednesday-362811a1.jpg",
@@ -4696,16 +4714,17 @@
   "height": 3098
  },
  "ordinary_time_22_saturday": {
-  "file": "ordinary_time_22_saturday-5b3298db.jpg",
-  "commons_file": "Gothaer-Tafelaltar-Tafel-064-Ebhardt-FSG.jpg",
-  "artist": "artist: Heinrich Füllmaurer, photographer: Lutz Ebhardt",
-  "license": "CC BY 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Gothaer-Tafelaltar-Tafel-064-Ebhardt-FSG.jpg",
-  "layout": "portrait",
+  "file": "ordinary_time_22_saturday_2-9dc9c0c8.jpg",
+  "commons_file": "Marten_van_Valckenborch_-_Christ_defends_the_plucking_of_the_ears_of_grain_on_the_Sabbath_(August).jpg",
+  "artist": "Marten van Valckenborch",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Marten_van_Valckenborch_-_Christ_defends_the_plucking_of_the_ears_of_grain_on_the_Sabbath_(August).jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3840,
-  "height": 5121
+  "fy": 0.45,
+  "width": 1280,
+  "height": 897,
+  "crop": "manual"
  },
  "ordinary_time_23_monday": {
   "file": "ordinary_time_23_monday-53df69b8.jpg",
@@ -4756,16 +4775,17 @@
   "height": 4728
  },
  "ordinary_time_25_friday": {
-  "file": "ordinary_time_25_friday-08630e18.jpg",
-  "commons_file": "Guido_Reni,_consegna_delle_chiavi,_16241626_ca..jpg",
-  "artist": "Sailko",
-  "license": "CC BY-SA 3.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Guido_Reni,_consegna_delle_chiavi,_16241626_ca..jpg",
+  "file": "ordinary_time_25_friday_2-68e4f02b.jpg",
+  "commons_file": "Christ_giving_the_Keys_of_Heaven_to_St._Peter_by_Peter_Paul_Rubens_-_Gemäldegalerie_-_Berlin_-_Germany_2017.jpg",
+  "artist": "Peter Paul Rubens (photo: Jbribeiro1)",
+  "license": "CC BY-SA 4.0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Christ_giving_the_Keys_of_Heaven_to_St._Peter_by_Peter_Paul_Rubens_-_Gem%C3%A4ldegalerie_-_Berlin_-_Germany_2017.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2058,
-  "height": 2976
+  "width": 1920,
+  "height": 2260,
+  "crop": "manual"
  },
  "ordinary_time_25_saturday": {
   "file": "ordinary_time_25_saturday-3d5b997e.jpg",
@@ -5452,16 +5472,17 @@
   "height": 3815
  },
  "easter_time_3_wednesday": {
-  "file": "easter_time_3_wednesday-fe15555e.jpg",
-  "commons_file": "Federico_Barocci_Urbino_-_L'emozione_della_pittura_moderna_30.jpg",
-  "artist": "Accurimbono",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Federico_Barocci_Urbino_-_L%27emozione_della_pittura_moderna_30.jpg",
-  "layout": "portrait",
-  "fx": 0.5,
-  "fy": 0.4,
-  "width": 2677,
-  "height": 4169
+  "file": "easter_time_3_wednesday_2-b4072d19.jpg",
+  "commons_file": "",
+  "artist": "Giovanni Domenico Tiepolo",
+  "license": "Public domain",
+  "source_page": "https://open.smk.dk/artwork/image/kmssp160",
+  "layout": "landscape",
+  "fx": 0.45,
+  "fy": 0.45,
+  "width": 4509,
+  "height": 2945,
+  "crop": "manual"
  },
  "easter_time_6_tuesday": {
   "file": "easter_time_6_tuesday-a74b8b8e.jpg",
@@ -5500,16 +5521,17 @@
   "height": 5179
  },
  "easter_time_7_tuesday": {
-  "file": "easter_time_7_tuesday-7a61fa5f.jpg",
-  "commons_file": "El_greco,_orazione_nell'orto,_1590-95_ca.jpg",
-  "artist": "Sailko",
-  "license": "CC BY 3.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:El_greco,_orazione_nell%27orto,_1590-95_ca.jpg",
-  "layout": "portrait",
+  "file": "easter_time_7_tuesday_2-0c2ea14c.jpg",
+  "commons_file": "El_Greco_019.jpg",
+  "artist": "El Greco",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:El_Greco_019.jpg",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 2216,
-  "height": 2120
+  "fy": 0.45,
+  "width": 3176,
+  "height": 2575,
+  "crop": "manual"
  },
  "ordinary_time_15_saturday": {
   "file": "ordinary_time_15_saturday-3937e138.jpg",
@@ -5680,16 +5702,17 @@
   "height": 2748
  },
  "lent_1_thursday": {
-  "file": "lent_1_thursday-9407cbf4.jpg",
-  "commons_file": "Light_of_the_World_Hunt.jpg",
+  "file": "lent_1_thursday_2-ec53fbf9.jpg",
+  "commons_file": "Hunt-light-of-the-world.jpeg",
   "artist": "William Holman Hunt",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Light_of_the_World_Hunt.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Hunt-light-of-the-world.jpeg",
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3840,
-  "height": 6190
+  "fy": 0.3,
+  "width": 1920,
+  "height": 3810,
+  "crop": "manual"
  },
  "lent_1_friday": {
   "file": "lent_1_friday-a0e9e8c6.jpg",
@@ -5752,16 +5775,17 @@
   "height": 2353
  },
  "lent_2_tuesday": {
-  "file": "lent_2_tuesday-9df6eb61.jpg",
-  "commons_file": "Tintoretto,_Jacopo_-_Christ_washing_the_Feet_of_the_Disciples_-_National_Gallery_London.jpg",
+  "file": "lent_2_tuesday_2-13d3c77e.jpg",
+  "commons_file": "Jacopo_Tintoretto_-_Christ_washing_the_Feet_of_the_Disciples_-_Google_Art_Project.jpg",
   "artist": "Jacopo Tintoretto",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Tintoretto,_Jacopo_-_Christ_washing_the_Feet_of_the_Disciples_-_National_Gallery_London.jpg",
-  "layout": "portrait",
-  "fx": 0.5,
-  "fy": 0.4,
-  "width": 3840,
-  "height": 1885
+  "source_page": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_-_Christ_washing_the_Feet_of_the_Disciples_-_Google_Art_Project.jpg",
+  "layout": "landscape",
+  "fx": 0.45,
+  "fy": 0.45,
+  "width": 1920,
+  "height": 938,
+  "crop": "manual"
  },
  "lent_2_saturday": {
   "file": "lent_2_saturday-0d8e822c.jpg",
@@ -6148,16 +6172,17 @@
   "height": 4231
  },
  "easter_time_4_friday": {
-  "file": "easter_time_4_friday-eb645cbe.jpg",
-  "commons_file": "Ognissanti_Last_Supper.JPG",
-  "artist": "Domenico Ghirlandaio",
+  "file": "easter_time_4_friday_2-ad1c6dbc.jpg",
+  "commons_file": "",
+  "artist": "Girolamo Muziano",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Ognissanti_Last_Supper.JPG",
-  "layout": "portrait",
+  "source_page": "https://open.smk.dk/artwork/image/kmssp12",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3870,
-  "height": 2630
+  "fy": 0.45,
+  "width": 4724,
+  "height": 3809,
+  "crop": "manual"
  },
  "easter_time_4_saturday": {
   "file": "easter_time_4_saturday-2f74d0c4.jpg",
@@ -6172,16 +6197,17 @@
   "height": 3051
  },
  "easter_time_5_wednesday": {
-  "file": "easter_time_5_wednesday-e514652b.jpg",
-  "commons_file": "Icon_with_Christ_the_Vine._From_Asia_Minor,_19th_c._(8384506184).jpg",
-  "artist": "Unknown icon painter (photo: Tilemahos Efthimiadis)",
-  "license": "CC BY-SA 2.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Icon_with_Christ_the_Vine._From_Asia_Minor,_19th_c._(8384506184).jpg",
+  "file": "easter_time_5_wednesday_2-3365c8f4.jpg",
+  "commons_file": "Icon_with_Christ_the_Vine_attributed_to_the_workshop_of_the_painter_Theophanes_late_16th-early_17th_c.jpg",
+  "artist": "Workshop of Theophanes (photo: Yair Haklai)",
+  "license": "CC BY-SA 4.0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Icon_with_Christ_the_Vine_attributed_to_the_workshop_of_the_painter_Theophanes_late_16th-early_17th_c.jpg",
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3428,
-  "height": 5164
+  "fy": 0.45,
+  "width": 1280,
+  "height": 1672,
+  "crop": "manual"
  },
  "easter_time_5_friday": {
   "file": "easter_time_5_friday-ebc0bb14.jpg",
@@ -6316,16 +6342,17 @@
   "height": 1650
  },
  "ordinary_time_8_thursday": {
-  "file": "ordinary_time_8_thursday-adc20c6c.jpg",
-  "commons_file": "Dresden,_Gemäldegalerie_Alte_Meister,_El_Greco,_die_Heilung_des_Blinden.jpg",
-  "artist": "El Greco (photo: Dguendel)",
-  "license": "CC BY 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Dresden,_Gem%C3%A4ldegalerie_Alte_Meister,_El_Greco,_die_Heilung_des_Blinden.jpg",
-  "layout": "portrait",
+  "file": "ordinary_time_8_thursday_2-6ac1733b.jpg",
+  "commons_file": "",
+  "artist": "El Greco",
+  "license": "CC0",
+  "source_page": "https://www.metmuseum.org/art/collection/search/436572",
+  "layout": "landscape",
   "fx": 0.5,
-  "fy": 0.4,
-  "width": 3255,
-  "height": 2522
+  "fy": 0.45,
+  "width": 4000,
+  "height": 3325,
+  "crop": "manual"
  },
  "ordinary_time_8_saturday": {
   "file": "ordinary_time_8_saturday-63fcbc66.jpg",

@@ -1,15 +1,15 @@
 {
  "adalbert_of_prague_bishop": {
-  "label": "The bronze doors",
-  "text": "The Death of Saint Adalbert, from the bronze doors of Gniezno Cathedral, cast around 1175. Eighteen scenes tell his life, from birth to his killing by the pagan Prussians and the ransom of his body for its weight in gold. They are among the great works of Romanesque art."
+  "label": "The painting",
+  "text": "Saint Adalbert, a wing of the altarpiece from Snoza, painted in Poland about 1460. The martyr bishop of Prague stands in his mitre and vestments; the back of the panel shows the Virgin of the Annunciation. It is in the National Museum in Kraków."
  },
  "agatha_of_sicily_virgin": {
   "label": "The painting",
-  "text": "Saint Agatha by Francisco de Zurbarán, about 1630–33, painted for a Mercedarian monastery in Seville. Dressed in rich silks, she calmly carries the emblem of her martyrdom on a plate. It is in the Musée Fabre, Montpellier."
+  "text": "Saint Agatha by Lorenzo Lippi, about 1638–44, a Florentine painter and poet. Calm and looking straight at us, she holds the shears of her martyrdom over the dish that became her emblem. It is in the Blanton Museum of Art, Austin, Texas."
  },
  "agnes_of_rome_virgin": {
   "label": "The painting",
-  "text": "Saint Agnes in Prison by Jusepe de Ribera, 1641. Stripped and exposed, she prays as her hair grows to cover her and an angel brings a white cloth from heaven. It is in the Gemäldegalerie Alte Meister, Dresden."
+  "text": "Saint Agnes by Francesco Furini, the Florentine painter who became a parish priest, in the second quarter of the 1600s. She holds a lamb, her emblem, close against her shoulder: her name echoes agnus, the Latin for lamb."
  },
  "albert_the_great_bishop": {
   "label": "The painting",
@@ -152,8 +152,8 @@
   "text": "Saint Camillus de Lellis Saving the Sick of the Santo Spirito Hospital from the Flood of 1598, by Pierre Subleyras, 1746. When the Tiber burst its banks, Camillus and his brothers carried the patients to safety on their backs. It is in the Museo di Roma, Palazzo Braschi."
  },
  "casimir_of_poland": {
-  "label": "The painting",
-  "text": "The 'three-handed' Saint Casimir in his chapel in Vilnius Cathedral, Lithuania, painted around 1600. Legend says the painter tried to paint over a misplaced hand, but it kept reappearing, so he left all three."
+  "label": "The watercolor",
+  "text": "Saint Casimir, Polish Crown Prince, a watercolor by Jan Matejko, 1863. The young prince kneels in prayer, his ermine-lined royal cloak slipping from his shoulders. It is in the National Museum in Kraków."
  },
  "catherine_of_alexandria_virgin": {
   "label": "The painting",
@@ -168,8 +168,8 @@
   "text": "The Ecstasy of Saint Cecilia by Raphael, about 1514–16. Cecilia lets her organ slip as she hears the music of angels; broken instruments lie at her feet. It is in the Pinacoteca Nazionale, Bologna."
  },
  "chair_of_saint_peter_the_apostle": {
-  "label": "The sculpture",
-  "text": "The Cathedra Petri by Gian Lorenzo Bernini, 1657–66, at the far end of St. Peter's Basilica. A gilded bronze throne held aloft by four Doctors of the Church encloses an ancient wooden chair, beneath a window of the Holy Spirit."
+  "label": "The painting",
+  "text": "Saint Peter Enthroned by Rodrigo de Osona, about 1475–85, one of the first painters in Valencia to work in the new Flemish manner. Peter sits on his throne as the first pope, wearing the papal tiara and holding the keys, with an angel on either side."
  },
  "charles_borromeo_bishop": {
   "label": "The painting",
@@ -212,8 +212,8 @@
   "text": "A painting by Palma il Giovane, about 1590, in the sacristy of the Chiesa dei Gesuiti in Venice. Cyril of Jerusalem appears in a cycle on the legendary history of the Crutched Friars."
  },
  "damasus_i_pope": {
-  "label": "The painting",
-  "text": "Saint Damasus, a 16th-century Portuguese panel by an unknown painter, in the Alberto Sampaio Museum in Guimarães—the city that claims him as a native son."
+  "label": "The altarpiece",
+  "text": "Saint Jerome in Penitence with Saints and Donors by Francesco Botticini, about 1490. Pope Damasus, who asked Jerome to revise the Latin Bible, stands in his red robes on the left beside Saint Eusebius; Saints Paula and Eustochium stand on the right. It is in the National Gallery, London."
  },
  "dedication_of_the_basilica_of_saint_mary_major": {
   "label": "The painting",
@@ -224,8 +224,8 @@
   "text": "St. Peter's, Rome, by Viviano Codazzi, about 1630. Michelangelo's dome had been finished only a few decades earlier. It is in the Museo del Prado."
  },
  "dedication_of_the_lateran_basilica": {
-  "label": "The photograph",
-  "text": "The façade of St. John Lateran, Rome, by Alessandro Galilei, 1735, crowned by giant statues of Christ and the saints. The inscription calls it the mother and head of all the churches of the city and the world."
+  "label": "The painting",
+  "text": "The Basilica of Saint John Lateran by Giacomo van Lint, a painter of views of Rome, in the later 1700s. Alessandro Galilei's great façade rises over the open square, with the Lateran Palace, the old home of the popes, beside it."
  },
  "denis_of_paris_bishop_and_companions_martyrs": {
   "label": "The altarpiece",
@@ -236,8 +236,8 @@
   "text": "The Feast of the Rose Garlands by Albrecht Dürer, 1506, painted in Venice for German merchants. Mary and the Christ Child crown the pope and emperor with roses, while Dominic, at left, crowns the faithful. It is in the National Gallery Prague."
  },
  "easter_sunday": {
-  "label": "The fresco",
-  "text": "The Resurrection by Piero della Francesca, about 1463–65, in the town hall of Sansepolcro, Tuscany. Christ rises from the tomb above sleeping soldiers. The novelist Aldous Huxley called it 'the best picture in the world', and a British officer spared the town from shelling in 1944 because he remembered it."
+  "label": "The painting",
+  "text": "The Resurrection, a panel from a Netherlandish altarpiece of about 1485–1500. Christ steps from the tomb with the banner of victory as the soldiers sleep or wake in fright; behind them the story goes on, from Christ freeing the souls of the dead to the women on their way to the tomb and the Ascension. It is in the Rijksmuseum, Amsterdam."
  },
  "easter_monday": {
   "label": "The painting",
@@ -444,8 +444,8 @@
   "text": "Saint John of Damascus in a 14th or 15th-century fresco on Mount Athos. He wears the turban he would have worn as an official at the Caliph's court in Damascus, before he became a monk."
  },
  "john_de_brebeuf_isaac_jogues_priests_and_companions_martyrs": {
-  "label": "The painting",
-  "text": "The Martyrdom of Jean de Brébeuf and Gabriel Lalemant, in the Cathedral-Basilica of Mary, Queen of the World, Montreal. Brébeuf preached to his Iroquois captors until they silenced him."
+  "label": "The portrait",
+  "text": "Isaac Jogues, from a portrait published in 1904, holding a page with the Jesuit motto Ad majorem Dei gloriam. Captured and tortured by the Mohawks in 1642, he escaped, went back, and was killed at Ossernenon, in today's New York, in 1646. It is in the Library of Congress."
  },
  "john_fisher_bishop_and_thomas_more_martyrs": {
   "label": "The painting",
@@ -508,8 +508,8 @@
   "text": "Saint Juan Diego with the Tilma, a Mexican painting of 1737. He opens his cloak to show the roses he gathered in December, and the image of Our Lady of Guadalupe on the cloth."
  },
  "lawrence_of_brindisi_priest": {
-  "label": "The painting",
-  "text": "An altar painting of Saint Lawrence of Brindisi in the church of the Holy Spirit at Francavilla Fontana, in his native Apulia. The Capuchin preacher is shown in glory with angels."
+  "label": "The engraving",
+  "text": "Lawrence of Brindisi, an engraving by Franz Heissig, about 1770–80. The Capuchin preacher, with his long white beard, holds a crucifix. It is in the Rijksmuseum, Amsterdam."
  },
  "lawrence_of_rome_deacon": {
   "label": "The painting",
@@ -637,7 +637,7 @@
  },
  "our_lady_of_loreto": {
   "label": "The painting",
-  "text": "The Madonna of Loreto by Domenico Fiasella, about 1643. Angels carry the Holy House of Nazareth through the air to Loreto, as the legend tells. It is in the Diocesan Museum, Genoa."
+  "text": "The Madonna di Loreto by Caravaggio, about 1604–06. Mary, barefoot in a Roman doorway, shows the Child to two kneeling pilgrims whose dirty feet scandalized some who saw it. It hangs in the church of Sant'Agostino, Rome."
  },
  "our_lady_of_lourdes": {
   "label": "The painting",
@@ -696,8 +696,8 @@
   "text": "Saint Peter Canisius, an anonymous portrait. The Dutch Jesuit's catechisms went through hundreds of editions in his lifetime and he was called the second apostle of Germany."
  },
  "peter_chrysologus_bishop": {
-  "label": "The painting",
-  "text": "Saints Peter Chrysologus, Romuald and Peter Damian, by Giuseppe Milani, in the Cathedral of Ravenna. Three saints of Ravenna together: its great bishop, its hermit and its reformer."
+  "label": "The engraving",
+  "text": "Saint Peter Chrysologus, from Jacques Callot's Images of All the Saints, 1636, a small engraving for every day of the year. The bishop of Ravenna, whose sermons earned him the name 'golden word', stands in a quiet landscape. It is in the Metropolitan Museum of Art, New York."
  },
  "philip_and_james_apostles": {
   "label": "The painting",
@@ -761,7 +761,7 @@
  },
  "seven_holy_founders_of_the_servite_order": {
   "label": "The painting",
-  "text": "The Madonna Presents the Dead Christ to the Seven Holy Founders, by Gaspare Diziani, about 1750. The seven Florentine merchants left their businesses in 1233 to found the Servants of Mary."
+  "text": "The Madonna with the Seven Founders of the Servite Order by Agostino Masucci, 1728. The Virgin appears in glory to the seven Florentine founders, kneeling in their black habits. It is in the Art Institute of Chicago."
  },
  "simon_and_jude_apostles": {
   "label": "The painting",
@@ -792,8 +792,8 @@
   "text": "Mother Teresa by the Indian artist Rajasekharan Parameswaran. She wears the white sari with blue stripes, the dress of the poorest women of Calcutta, which she chose as the habit of her sisters."
  },
  "teresa_of_jesus_of_avila_virgin": {
-  "label": "The sculpture",
-  "text": "The Ecstasy of Saint Teresa by Gian Lorenzo Bernini, 1647–52. An angel holds a golden arrow, just as Teresa described in her autobiography. It is the centerpiece of the Cornaro Chapel in Santa Maria della Vittoria, Rome."
+  "label": "The painting",
+  "text": "Saint Teresa of Avila Interceding for Souls in Purgatory by Peter Paul Rubens. Teresa kneels before the risen Christ to plead for the souls in purgatory, as angels lift them from the flames below. It is in the Metropolitan Museum of Art, New York."
  },
  "thanksgiving_day": {
   "label": "The painting",
@@ -853,7 +853,7 @@
  },
  "palm_sunday_of_the_passion_of_the_lord": {
   "label": "The painting",
-  "text": "The Entry into Jerusalem by Jan Baegert, about 1505–10, from the wing of an altarpiece. It is in the City Museum of Münster, Germany."
+  "text": "Christ's Entry into Jerusalem by Adriaen van Nieulandt, 1655. A great crowd pours along the road, spreading cloaks and branches before Christ as he rides into the city. It is in the National Gallery of Denmark, Copenhagen."
  },
  "thursday_of_the_lords_supper": {
   "label": "The painting",
@@ -960,8 +960,8 @@
   "text": "The Multiplication of the Loaves and Fishes by Paolo Farinati, in the church of San Giorgio in Braida, Verona. Five loaves and two fish feed five thousand."
  },
  "day_of_prayer_for_the_legal_protection_of_unborn_children": {
-  "label": "The fresco",
-  "text": "The Madonna del Parto (Madonna of Childbirth) by Piero della Francesca, about 1460, one of the very few paintings of Mary expecting. Two angels draw back a tent as she rests her hand on her unborn child. It is in its own small museum in Monterchi, Tuscany."
+  "label": "The painting",
+  "text": "The Visitation by Alonso Cano, painter, sculptor and architect of 17th-century Granada. Mary, newly expecting Jesus, greets her cousin Elizabeth, whose child leapt in her womb at the sound of her voice. Joseph and Zechariah stand behind them. It is in the Musée Goya, Castres, France."
  },
  "andre_bessette_religious": {
   "label": "The photograph",
@@ -1176,8 +1176,8 @@
   "text": "The Good Shepherd by Bartolomé Esteban Murillo, about 1660, showing Christ as a gentle child shepherd with his hand on a lamb, ruined columns behind him. It is in the Museo del Prado, Madrid."
  },
  "easter_time_5_sunday_b": {
-  "label": "The icon",
-  "text": "Christ the True Vine, an icon of the 1500s, of a type first painted in Crete. Christ sits in the trunk of a vine whose branches hold the twelve apostles: 'I am the vine, you are the branches.' It is in the Byzantine and Christian Museum, Athens."
+  "label": "The engraving",
+  "text": "Christ the True Vine, an old engraving. Christ hangs on a cross that grows into a vine, and its branches hold the apostles and evangelists, above the words 'I am the vine, you are the branches.' It is in the Wellcome Collection, London."
  },
  "easter_time_6_sunday_b": {
   "label": "The painting",
@@ -1241,7 +1241,7 @@
  },
  "holy_tuesday": {
   "label": "The painting",
-  "text": "The Last Supper by Philippe de Champaigne, 1652, painted for the convent of Port-Royal in Paris. The apostles look to one another as Jesus says, 'One of you will betray me.' It is in the Louvre, Paris."
+  "text": "The Last Supper by Philippe de Champaigne, the painter of the abbey of Port-Royal, in the mid-1600s. The apostles turn to one another at the moment Jesus says, 'One of you will betray me.' This version is in the Musée des Beaux-Arts, Lyon."
  },
  "holy_wednesday": {
   "label": "The painting",
@@ -1353,11 +1353,11 @@
  },
  "advent_december_18": {
   "label": "The painting",
-  "text": "The Dream of Saint Joseph by Georges de La Tour, about 1640. By the light of a single candle, a child-like angel touches the sleeping Joseph's arm. It is in the Museum of Arts, Nantes."
+  "text": "The Dream of Saint Joseph by Gerard Seghers, about 1625–30. An angel rushes in to wake the sleeping Joseph and give him God's message, while Mary and the Child rest in the shadows behind. It is in the Kunsthistorisches Museum, Vienna."
  },
  "advent_december_19": {
-  "label": "The fresco",
-  "text": "The Angel Appearing to Zechariah by Domenico Ghirlandaio, 1486–90, in the Tornabuoni Chapel of Santa Maria Novella, Florence. Ghirlandaio filled the Temple with portraits of the leading men of Florence."
+  "label": "The painting",
+  "text": "The Angel Appearing to Zacharias by William Blake, 1799–1800, one of the Bible paintings he made for his friend Thomas Butts. The priest stands by the golden lampstand in the Temple as Gabriel appears beside the altar of incense. It is in the Metropolitan Museum of Art, New York."
  },
  "advent_december_20": {
   "label": "The painting",
@@ -1428,8 +1428,8 @@
   "text": "The Sermon on the Mount by Fra Angelico, about 1440–42, painted on the wall of a friar's cell at the Convent of San Marco, Florence. The apostles sit in a ring on the bare rock around Christ."
  },
  "ordinary_time_11_monday": {
-  "label": "The fresco",
-  "text": "The Mocking of Christ by Fra Angelico, 1440–41, in cell 7 of the Convent of San Marco, Florence. Blindfolded, Christ sits calmly while disembodied hands strike him and a head spits; below, Mary and St. Dominic meditate."
+  "label": "The painting",
+  "text": "The Mocking of Christ by Jacopo Bassano, 1560s. By night the soldiers crown Christ with thorns and strike him, and he does not resist: 'If any one strikes you on the right cheek, turn to him the other also.' It is in the Gallerie dell'Accademia, Venice."
  },
  "ordinary_time_11_wednesday": {
   "label": "The painting",
@@ -1504,8 +1504,8 @@
   "text": "The Miraculous Draught of Fishes by Raphael, 1515–16, a full-size design for a tapestry for the Sistine Chapel. Peter kneels in the overloaded boat: 'Depart from me, Lord, for I am a sinful man.' It is lent by the King to the Victoria and Albert Museum, London."
  },
  "ordinary_time_22_saturday": {
-  "label": "The panel",
-  "text": "The Disciples Pick Grain on the Sabbath, a panel of the Gotha Altarpiece, about 1540, from the workshop of Heinrich Füllmaurer — 157 painted scenes of the life of Christ in one folding altarpiece. It is in Friedenstein Castle, Gotha."
+  "label": "The painting",
+  "text": "Christ Defends the Plucking of the Grain on the Sabbath by Marten van Valckenborch, about 1580–90, the August picture in his series of the months. Harvesters work the wheat fields while Christ, walking through them with his disciples, answers the Pharisees. It is in the Kunsthistorisches Museum, Vienna."
  },
  "ordinary_time_23_monday": {
   "label": "The illumination",
@@ -1525,7 +1525,7 @@
  },
  "ordinary_time_25_friday": {
   "label": "The painting",
-  "text": "Christ Giving the Keys to Saint Peter by Guido Reni, about 1624–26. It is in the Louvre, Paris."
+  "text": "Christ Giving the Keys to Saint Peter by Peter Paul Rubens, about 1612–14. The risen Christ, his wounds still showing, places the keys of the kingdom in Peter's hands. It is in the Gemäldegalerie, Berlin."
  },
  "ordinary_time_25_saturday": {
   "label": "The painting",
@@ -1757,7 +1757,7 @@
  },
  "easter_time_3_wednesday": {
   "label": "The painting",
-  "text": "The Institution of the Eucharist by Federico Barocci, 1603–08, painted for Pope Clement VIII. Christ blesses the bread among the apostles while servants bustle in the foreground. It is in Santa Maria sopra Minerva, Rome."
+  "text": "The Institution of the Eucharist by Giovanni Domenico Tiepolo, 1753, painted when he was in his twenties. Seated among the apostles, Christ gives them the bread that is his body. It is in the National Gallery of Denmark, Copenhagen."
  },
  "easter_time_6_tuesday": {
   "label": "The painting",
@@ -1773,7 +1773,7 @@
  },
  "easter_time_7_tuesday": {
   "label": "The painting",
-  "text": "The Agony in the Garden by El Greco, about 1590–95. Christ prays, his face turned to heaven, while an angel brings the cup and the apostles sleep in a cave of cloud. It is in the Toledo Museum of Art, Ohio."
+  "text": "The Agony in the Garden by El Greco and his workshop, 1590s. Christ kneels in prayer on the Mount of Olives as an angel brings the cup, while the apostles sleep in a hollow of rock below. It is in the National Gallery, London."
  },
  "ordinary_time_15_saturday": {
   "label": "The painting",
@@ -1833,7 +1833,7 @@
  },
  "lent_1_thursday": {
   "label": "The painting",
-  "text": "The Light of the World by William Holman Hunt. Christ knocks at an overgrown door that has no handle on the outside. This large final version, finished in 1904, toured the world and now hangs in St. Paul's Cathedral, London."
+  "text": "The Light of the World by William Holman Hunt, 1851–53, the first version of the picture. Crowned with thorns and carrying a lantern, Christ knocks at an overgrown door that has no handle on the outside: 'Behold, I stand at the door and knock.' It hangs at Keble College, Oxford."
  },
  "lent_1_friday": {
   "label": "The painting",
@@ -1988,8 +1988,8 @@
   "text": "Christ as 'The Light of the World' by Paris Bordone, the Venetian painter who trained with Titian. It is in the National Gallery, London."
  },
  "easter_time_4_friday": {
-  "label": "The fresco",
-  "text": "The Last Supper by Domenico Ghirlandaio, 1480, painted on the refectory wall of the Ognissanti friary in Florence. Judas sits alone on the near side of the table; beyond the apostles, birds fly among the trees of a garden."
+  "label": "The painting",
+  "text": "The Last Supper by Girolamo Muziano, painted on copper in late 16th-century Rome. The apostles crowd around the table on the night Jesus told them, 'I am the way, and the truth, and the life.' It is in the National Gallery of Denmark, Copenhagen."
  },
  "easter_time_4_saturday": {
   "label": "The painting",
@@ -1997,7 +1997,7 @@
  },
  "easter_time_5_wednesday": {
   "label": "The icon",
-  "text": "Christ the Vine, an icon from Asia Minor, 1800s. Christ sits at the root of the vine, and its branches hold the apostles. It is in the Byzantine and Christian Museum, Athens."
+  "text": "Christ the Vine, an icon attributed to the workshop of the painter Theophanes, late 1500s or early 1600s. Christ sits at the heart of the vine holding an open Gospel, and its branches carry the twelve apostles. It is in the Byzantine and Christian Museum, Athens."
  },
  "easter_time_5_friday": {
   "label": "The fresco",
@@ -2045,7 +2045,7 @@
  },
  "ordinary_time_8_thursday": {
   "label": "The painting",
-  "text": "Christ Healing the Blind by El Greco, about 1570, painted in Venice. Christ touches the eyes of the blind man in a deep Venetian piazza. It is in the Gemäldegalerie Alte Meister, Dresden."
+  "text": "Christ Healing the Blind by El Greco, about 1570, painted in Italy before he settled in Spain. Christ touches the eyes of the blind man in a deep piazza, as the crowd argues around them. It is in the Metropolitan Museum of Art, New York."
  },
  "ordinary_time_8_saturday": {
   "label": "The fresco",
