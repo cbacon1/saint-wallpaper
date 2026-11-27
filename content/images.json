@@ -2227,7 +2227,7 @@
   "crop": "saliency"
  },
  "paulinus_of_nola_bishop": {
-  "file": "paulinus_of_nola_bishop-d187de20.jpg",
+  "file": "paulinus_of_nola_bishop-626eaeca.jpg",
   "commons_file": "Caltagirone_-_Chiesa_di_San_Francesco_d'Assisi_-_2024-12-27_09-00-27_003.JPG",
   "artist": "Effems",
   "license": "CC BY-SA 4.0",
@@ -2235,8 +2235,8 @@
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3888,
-  "height": 2188,
+  "width": 1350,
+  "height": 2400,
   "crop": "face"
  },
  "pentecost_sunday": {
@@ -3495,16 +3495,17 @@
   "height": 1873
  },
  "peter_claver_priest": {
-  "file": "peter_claver_priest-055cca66.jpg",
-  "commons_file": "StPeterClaver.jpg",
-  "artist": "User Andymeyer on en.wikipedia",
-  "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:StPeterClaver.jpg",
+  "file": "peter_claver_priest_2-c8beb008.jpg",
+  "commons_file": "Peter_Claver.jpg",
+  "artist": "Unknown artist (photo: Mill 1)",
+  "license": "CC BY-SA 4.0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Peter_Claver.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 202,
-  "height": 285
+  "width": 1920,
+  "height": 2400,
+  "crop": "manual"
  },
  "peter_damian_bishop": {
   "file": "peter_damian_bishop-62664f5e.jpg",
@@ -3591,16 +3592,17 @@
   "height": 1600
  },
  "charles_lwanga_and_companions_martyrs": {
-  "file": "charles_lwanga_and_companions_martyrs-c8eb0ce5.jpg",
-  "commons_file": "The_Basillica_of_the_Uganda_Martyrs,_Namugongo_01.jpg",
+  "file": "charles_lwanga_and_companions_martyrs_2-9cfab723.jpg",
+  "commons_file": "The_Basillica_of_the_Uganda_Martyrs,_Namugongo_02.jpg",
   "artist": "Lebu Ayiga",
   "license": "CC0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:The_Basillica_of_the_Uganda_Martyrs,_Namugongo_01.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:The_Basillica_of_the_Uganda_Martyrs,_Namugongo_02.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2998,
-  "height": 3998
+  "width": 1800,
+  "height": 2400,
+  "crop": "manual"
  },
  "ordinary_time_2_sunday_b": {
   "file": "ordinary_time_2_sunday_b-6edf62b9.jpg",
@@ -4848,16 +4850,17 @@
   "height": 2435
  },
  "ordinary_time_30_wednesday": {
-  "file": "ordinary_time_30_wednesday-2a2dc080.jpg",
-  "commons_file": "Der_breite_und_der_schmale_Weg_Lithographie_im_Rahmen.jpg",
-  "artist": "Charlotte Reihlen (Idee); Paul Beckmann (Ausführung); Photo: Andreas Praefcke",
+  "file": "ordinary_time_30_wednesday_2-de5e9765.jpg",
+  "commons_file": "The_Ladder_of_Divine_Ascent-Sinai.jpg",
+  "artist": "Unknown icon painter",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Der_breite_und_der_schmale_Weg_Lithographie_im_Rahmen.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:The_Ladder_of_Divine_Ascent-Sinai.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2190,
-  "height": 2626
+  "width": 1709,
+  "height": 2400,
+  "crop": "manual"
  },
  "ordinary_time_30_friday": {
   "file": "ordinary_time_30_friday-5474bb2a.jpg",
@@ -6451,16 +6454,17 @@
   "height": 4009
  },
  "ordinary_time_14_friday": {
-  "file": "ordinary_time_14_friday-f8658960.jpg",
-  "commons_file": "Santa_Giustina_(Padua)_-_Chapel_of_Saint_Matthias_-_The_mission_of_the_Apostles_(1631)_by_Battista_Bissoni.jpg",
-  "artist": "Battista Bissoni",
+  "file": "ordinary_time_14_friday_2-05514738.jpg",
+  "commons_file": "Paul_and_King_Agrippa_by_Hendrick_Bloemaert_Centraal_Museum_2570.jpg",
+  "artist": "Hendrick Bloemaert",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Santa_Giustina_(Padua)_-_Chapel_of_Saint_Matthias_-_The_mission_of_the_Apostles_(1631)_by_Battista_Bissoni.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Paul_and_King_Agrippa_by_Hendrick_Bloemaert_Centraal_Museum_2570.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 6942,
-  "height": 3486
+  "width": 2400,
+  "height": 1834,
+  "crop": "manual"
  },
  "ordinary_time_15_tuesday": {
   "file": "ordinary_time_15_tuesday-16d9f7ac.jpg",
