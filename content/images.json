@@ -3696,7 +3696,7 @@
  "easter_time_5_sunday_b": {
   "file": "easter_time_5_sunday_b_2-f7aec366.jpg",
   "commons_file": "Christ_as_the_vine;_the_Apostles_and_Evangelists_as_branches_Wellcome_V0033382.jpg",
-  "artist": "Wellcome Collection",
+  "artist": "Unknown engraver (Wellcome Collection)",
   "license": "CC BY 4.0",
   "source_page": "https://commons.wikimedia.org/wiki/File:Christ_as_the_vine;_the_Apostles_and_Evangelists_as_branches_Wellcome_V0033382.jpg",
   "layout": "portrait",
@@ -4384,16 +4384,17 @@
   "height": 1610
  },
  "ordinary_time_2_tuesday": {
-  "file": "ordinary_time_2_tuesday-1c7ef1f2.jpg",
-  "commons_file": "Marten_van_Valckenborch_-_Christ_defends_the_plucking_of_the_ears_of_grain_on_the_Sabbath_(August).jpg",
-  "artist": "Marten van Valckenborch",
+  "file": "ordinary_time_2_tuesday_2-bdec9005.jpg",
+  "commons_file": "Brooklyn_Museum_-_The_Disciples_Eat_Wheat_on_the_Sabbath_(Les_disciples_mangent_du_blé_au_sabbat)_-_James_Tissot_-_overall.jpg",
+  "artist": "James Tissot",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Marten_van_Valckenborch_-_Christ_defends_the_plucking_of_the_ears_of_grain_on_the_Sabbath_(August).jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Disciples_Eat_Wheat_on_the_Sabbath_%28Les_disciples_mangent_du_bl%C3%A9_au_sabbat%29_-_James_Tissot_-_overall.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 1478,
-  "height": 1036
+  "width": 625,
+  "height": 768,
+  "crop": "manual"
  },
  "ordinary_time_3_friday": {
   "file": "ordinary_time_3_friday-e99e4b0e.jpg",
@@ -4783,16 +4784,16 @@
   "height": 4728
  },
  "ordinary_time_25_friday": {
-  "file": "ordinary_time_25_friday_2-68e4f02b.jpg",
-  "commons_file": "Christ_giving_the_Keys_of_Heaven_to_St._Peter_by_Peter_Paul_Rubens_-_Gemäldegalerie_-_Berlin_-_Germany_2017.jpg",
-  "artist": "Peter Paul Rubens (photo: Jbribeiro1)",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Christ_giving_the_Keys_of_Heaven_to_St._Peter_by_Peter_Paul_Rubens_-_Gem%C3%A4ldegalerie_-_Berlin_-_Germany_2017.jpg",
+  "file": "ordinary_time_25_friday_3-a1cf9ad3.jpg",
+  "commons_file": "El_Greco_-_St._Peter_-_Google_Art_Project.jpg",
+  "artist": "El Greco",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:El_Greco_-_St._Peter_-_Google_Art_Project.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 1920,
-  "height": 2260,
+  "width": 1914,
+  "height": 2400,
   "crop": "manual"
  },
  "ordinary_time_25_saturday": {
@@ -5254,16 +5255,17 @@
   "height": 1577
  },
  "easter_time_3_saturday": {
-  "file": "easter_time_3_saturday-2a22a8f0.jpg",
-  "commons_file": "Christ_giving_the_Keys_of_Heaven_to_St._Peter_by_Peter_Paul_Rubens_-_Gemäldegalerie_-_Berlin_-_Germany_2017.jpg",
-  "artist": "Peter Paul Rubens",
-  "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Christ_giving_the_Keys_of_Heaven_to_St._Peter_by_Peter_Paul_Rubens_-_Gem%C3%A4ldegalerie_-_Berlin_-_Germany_2017.jpg",
-  "layout": "portrait",
+  "file": "easter_time_3_saturday_2-acf8e2cd.jpg",
+  "commons_file": "Giusto_di_Gand,_La_comunione_degli_apostoli,_1474.jpg",
+  "artist": "Justus of Ghent",
+  "license": "CC0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Giusto_di_Gand%2C_La_comunione_degli_apostoli%2C_1474.jpg",
+  "layout": "landscape",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2984,
-  "height": 3512
+  "width": 2400,
+  "height": 2031,
+  "crop": "manual"
  },
  "easter_time_4_tuesday": {
   "file": "easter_time_4_tuesday-83fcb50d.jpg",
@@ -6006,28 +6008,30 @@
   "height": 3643
  },
  "advent_1_friday": {
-  "file": "advent_1_friday-f1b7a0f9.jpg",
-  "commons_file": "El_Greco_(Doménikos_Theotokópoulos)_(1541–1614),_Christ_Healing_the_Blind,_c._1570.jpg",
-  "artist": "El Greco",
+  "file": "advent_1_friday_2-5d93bf6e.jpg",
+  "commons_file": "Konstantin_Makovsky_–_Healing_the_Blind_Men_(1860).jpg",
+  "artist": "Konstantin Makovsky",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:El_Greco_(Dom%C3%A9nikos_Theotok%C3%B3poulos)_(1541%E2%80%931614),_Christ_Healing_the_Blind,_c._1570.jpg",
-  "layout": "portrait",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Konstantin_Makovsky_%E2%80%93_Healing_the_Blind_Men_%281860%29.jpg",
+  "layout": "landscape",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3807,
-  "height": 3114
+  "width": 1000,
+  "height": 803,
+  "crop": "manual"
  },
  "advent_2_wednesday": {
-  "file": "advent_2_wednesday-620f2dd1.jpg",
-  "commons_file": "Ary_Scheffer_-_Christus_Consolator_-_Google_Art_Project.jpg",
-  "artist": "Ary Scheffer",
+  "file": "advent_2_wednesday_2-f488a872.jpg",
+  "commons_file": "Christ_The_Consolator.jpg",
+  "artist": "Carl Bloch",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Ary_Scheffer_-_Christus_Consolator_-_Google_Art_Project.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Christ_The_Consolator.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 4308,
-  "height": 3181
+  "width": 1128,
+  "height": 1500,
+  "crop": "manual"
  },
  "advent_2_thursday": {
   "file": "advent_2_thursday-9693d71e.jpg",
@@ -6562,16 +6566,17 @@
   "height": 1416
  },
  "ordinary_time_18_monday": {
-  "file": "ordinary_time_18_monday-1f49ae9d.jpg",
-  "commons_file": "The_Miracle_of_the_Loaves_and_Fishes_MET_DT5476.jpg",
-  "artist": "Jacopo Tintoretto",
+  "file": "ordinary_time_18_monday_2-00c6518d.jpg",
+  "commons_file": "The_miracle_of_the_loaves_and_fishes_(Pittoni).jpg",
+  "artist": "Giambattista Pittoni",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:The_Miracle_of_the_Loaves_and_Fishes_MET_DT5476.jpg",
-  "layout": "portrait",
+  "source_page": "https://commons.wikimedia.org/wiki/File:The_miracle_of_the_loaves_and_fishes_%28Pittoni%29.jpg",
+  "layout": "landscape",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3811,
-  "height": 1686
+  "width": 1280,
+  "height": 857,
+  "crop": "manual"
  },
  "ordinary_time_18_thursday": {
   "file": "ordinary_time_18_thursday-002d3b4a.jpg",
