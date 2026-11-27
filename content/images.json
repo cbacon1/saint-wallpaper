@@ -292,18 +292,19 @@
   "fy": 0.4
  },
  "ascension_of_the_lord": {
-  "file": "ascension_of_the_lord-5f678a43.jpg",
+  "file": "ascension_of_the_lord_2-16d3c627.jpg",
   "article": "Ascension of Jesus",
   "article_url": "https://en.wikipedia.org/wiki/Ascension_of_Jesus",
-  "commons_file": "Ascension_of_Christ-Perugino-MBA_Lyon_A134-IMG_0051-IMG_0056.jpg",
-  "artist": "Pietro Perugino",
-  "license": "CC BY-SA 2.0 fr",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Ascension_of_Christ-Perugino-MBA_Lyon_A134-IMG_0051-IMG_0056.jpg",
-  "width": 3840,
-  "height": 6272,
+  "commons_file": "Jesus_ascending_to_heaven.jpg",
+  "artist": "John Singleton Copley",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Jesus_ascending_to_heaven.jpg",
+  "width": 2146,
+  "height": 2400,
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.4
+  "fy": 0.4,
+  "crop": "manual"
  },
  "assumption_of_the_blessed_virgin_mary": {
   "file": "assumption_of_the_blessed_virgin_mary-aaaf0b88.jpg",
@@ -1601,17 +1602,17 @@
   "crop": "saliency"
  },
  "john_of_god_duarte_cidade_religious": {
-  "file": "john_of_god_duarte_cidade_religious-cb166a89.jpg",
-  "commons_file": "San_Juan_de_Dios_de_Murillo_en_la_Caridad_de_Sevilla_01.jpg",
-  "artist": "Hispalois",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:San_Juan_de_Dios_de_Murillo_en_la_Caridad_de_Sevilla_01.jpg",
+  "file": "john_of_god_duarte_cidade_religious_2-594fe87e.jpg",
+  "commons_file": "Triunfo_de_San_Juan_de_Dios.jpg",
+  "artist": "Corrado Giaquinto",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Triunfo_de_San_Juan_de_Dios.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2450,
-  "height": 2970,
-  "crop": "face"
+  "width": 1166,
+  "height": 2400,
+  "crop": "manual"
  },
  "john_of_kanty_priest": {
   "file": "john_of_kanty_priest-e2b7a5cc.jpg",
@@ -2176,16 +2177,17 @@
   "height": 5893
  },
  "pancras_of_rome_martyr": {
-  "file": "pancras_of_rome_martyr-7881ec45.jpg",
-  "commons_file": "Daddi,_Bernardo_-_San_Pancrazio_polyptych_-_Uffizi_bild_62.jpg",
-  "artist": "Михаил Бернгардт",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Daddi,_Bernardo_-_San_Pancrazio_polyptych_-_Uffizi_bild_62.jpg",
+  "file": "pancras_of_rome_martyr_2-e0861710.jpg",
+  "commons_file": "GriesheimSouffel_StPancrace_28.JPG",
+  "artist": "Louis Sorg (photo: Ralph Hammann)",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:GriesheimSouffel_StPancrace_28.JPG",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3840,
-  "height": 2880
+  "width": 2400,
+  "height": 1548,
+  "crop": "manual"
  },
  "passion_of_saint_john_the_baptist": {
   "file": "passion_of_saint_john_the_baptist-213ab185.jpg",
@@ -2416,16 +2418,17 @@
   "height": 3233
  },
  "rita_of_cascia_religious": {
-  "file": "rita_of_cascia_religious-b215a0c5.jpg",
-  "commons_file": "'Saint_Rita_of_Cascia'_by_Antonio_de_Torres,_c._1720.JPG",
-  "artist": "Antonio de Torres",
+  "file": "rita_of_cascia_religious_2-d1f63c67.jpg",
+  "commons_file": "Poussin,_Nicolas_-_The_Translation_of_Saint_Rita_of_Cascia_-_Google_Art_Project.jpg",
+  "artist": "Nicolas Poussin",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:%27Saint_Rita_of_Cascia%27_by_Antonio_de_Torres,_c._1720.JPG",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Poussin,_Nicolas_-_The_Translation_of_Saint_Rita_of_Cascia_-_Google_Art_Project.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2148,
-  "height": 3328
+  "width": 1854,
+  "height": 2400,
+  "crop": "manual"
  },
  "robert_bellarmine_bishop": {
   "file": "robert_bellarmine_bishop-643002c3.jpg",
@@ -2539,17 +2542,17 @@
   "height": 4000
  },
  "stephen_i_of_hungary": {
-  "file": "stephen_i_of_hungary-cf9c5919.jpg",
-  "commons_file": "Saint_Stephen_receives_the_Pope's_envoys.jpg",
-  "artist": "Pieter Jozef Verhaghen",
+  "file": "stephen_i_of_hungary_2-30074c3b.jpg",
+  "commons_file": "The_Glorification_of_the_Royal_Hungarian_Saints.png",
+  "artist": "Franz Anton Maulbertsch",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Saint_Stephen_receives_the_Pope%27s_envoys.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:The_Glorification_of_the_Royal_Hungarian_Saints.png",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2302,
-  "height": 1917,
-  "crop": "face"
+  "width": 1767,
+  "height": 2400,
+  "crop": "manual"
  },
  "stephen_the_first_martyr": {
   "file": "stephen_the_first_martyr-e9d3ccc8.jpg",
@@ -3231,16 +3234,17 @@
   "height": 953
  },
  "john_eudes_priest": {
-  "file": "john_eudes_priest-36fb4f77.jpg",
-  "commons_file": "JeanEudes.png",
-  "artist": "Unidentified painter",
-  "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:JeanEudes.png",
+  "file": "john_eudes_priest_2-d4fd6d9f.jpg",
+  "commons_file": "Jean_Eudes_et_son_tonneau.jpg",
+  "artist": "Unknown engraver",
+  "license": "CC0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Jean_Eudes_et_son_tonneau.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 436,
-  "height": 624
+  "width": 2022,
+  "height": 2400,
+  "crop": "manual"
  },
  "john_nepomucene_neumann_bishop": {
   "file": "john_nepomucene_neumann_bishop-b2afa0e7.jpg",
@@ -3483,16 +3487,17 @@
   "height": 3393
  },
  "peter_chanel_priest": {
-  "file": "peter_chanel_priest-aefa3af3.jpg",
-  "commons_file": "Illustration_de_Pierre_Chanel_jeune_-_Nicolet_1885.png",
-  "artist": "Claude Nicolet",
+  "file": "peter_chanel_priest_2-c8d99a23.jpg",
+  "commons_file": "Société_de_Saint-Augustin_-_Album_des_missions_catholiques_(page_18_crop_4).jpg",
+  "artist": "Unknown engraver",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Illustration_de_Pierre_Chanel_jeune_-_Nicolet_1885.png",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Soci%C3%A9t%C3%A9_de_Saint-Augustin_-_Album_des_missions_catholiques_(page_18_crop_4).jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 1092,
-  "height": 1873
+  "width": 1700,
+  "height": 2400,
+  "crop": "manual"
  },
  "peter_claver_priest": {
   "file": "peter_claver_priest_2-c8beb008.jpg",
@@ -3592,16 +3597,16 @@
   "height": 1600
  },
  "charles_lwanga_and_companions_martyrs": {
-  "file": "charles_lwanga_and_companions_martyrs_2-9cfab723.jpg",
-  "commons_file": "The_Basillica_of_the_Uganda_Martyrs,_Namugongo_02.jpg",
-  "artist": "Lebu Ayiga",
-  "license": "CC0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:The_Basillica_of_the_Uganda_Martyrs,_Namugongo_02.jpg",
+  "file": "charles_lwanga_and_companions_martyrs_3-f46fa1a0.jpg",
+  "commons_file": "Namugongo_Martyrs_window_Charles_Lwanga.jpg",
+  "artist": "Unknown artist (photo: Philipp Jakob)",
+  "license": "CC BY-SA 4.0",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Namugongo_Martyrs_window_Charles_Lwanga.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 1800,
-  "height": 2400,
+  "width": 2400,
+  "height": 1586,
   "crop": "manual"
  },
  "ordinary_time_2_sunday_b": {
@@ -3835,16 +3840,17 @@
   "height": 2900
  },
  "ordinary_time_30_sunday_b": {
-  "file": "ordinary_time_30_sunday_b-58170b96.jpg",
-  "commons_file": "Christ_Healing_the_Blind_MET_DT407.jpg",
-  "artist": "El Greco",
-  "license": "CC0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Christ_Healing_the_Blind_MET_DT407.jpg",
+  "file": "ordinary_time_30_sunday_b_2-c1a6e769.jpg",
+  "commons_file": "Nicolas_Colombel_-_Christ_Healing_the_Blind.jpg",
+  "artist": "Nicolas Colombel",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Nicolas_Colombel_-_Christ_Healing_the_Blind.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3807,
-  "height": 3114
+  "width": 1766,
+  "height": 2400,
+  "crop": "manual"
  },
  "ordinary_time_33_sunday_b": {
   "file": "ordinary_time_33_sunday_b-913302fe.jpg",
@@ -4814,16 +4820,17 @@
   "height": 1117
  },
  "ordinary_time_29_thursday": {
-  "file": "ordinary_time_29_thursday-81fd3816.jpg",
-  "commons_file": "Restout_-_La_Pentecôte_01.jpg",
-  "artist": "Pierre-Yves Beaudouin",
+  "file": "ordinary_time_29_thursday_2-c9a286ee.jpg",
+  "commons_file": "Giotto_di_Bondone_088.jpg",
+  "artist": "Giotto and workshop",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Restout_-_La_Pentec%C3%B4te_01.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_088.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3840,
-  "height": 2325
+  "width": 2304,
+  "height": 2400,
+  "crop": "manual"
  },
  "ordinary_time_30_monday": {
   "file": "ordinary_time_30_monday-5c297100.jpg",
@@ -5295,16 +5302,17 @@
   "height": 1738
  },
  "easter_time_6_wednesday": {
-  "file": "easter_time_6_wednesday-e4eed351.jpg",
-  "commons_file": "Hosios_Loukas_Katholikon_(sanctuary_vault)_-_Pentecost_01.jpg",
-  "artist": "Unknown artist",
+  "file": "easter_time_6_wednesday_2-b6e1542d.jpg",
+  "commons_file": "Dyck,_Anthonis_van_-_Pouring_of_the_Holy_Ghost_-_Bildergalerie_Sanssouci.jpeg",
+  "artist": "Anthony van Dyck",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Hosios_Loukas_Katholikon_(sanctuary_vault)_-_Pentecost_01.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Dyck,_Anthonis_van_-_Pouring_of_the_Holy_Ghost_-_Bildergalerie_Sanssouci.jpeg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 2172,
-  "height": 2265
+  "width": 1975,
+  "height": 2400,
+  "crop": "manual"
  },
  "easter_time_6_saturday": {
   "file": "easter_time_6_saturday-fc94c28a.jpg",
@@ -5343,16 +5351,17 @@
   "height": 3072
  },
  "ordinary_time_14_wednesday": {
-  "file": "ordinary_time_14_wednesday-64230272.jpg",
-  "commons_file": "Nová_Říše_Klosterkirche_-_Deckenfresko_2a_Aussendung_Apostel.jpg",
-  "artist": "Wolfgang Sauber",
-  "license": "CC BY-SA 4.0",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Nov%C3%A1_%C5%98%C3%AD%C5%A1e_Klosterkirche_-_Deckenfresko_2a_Aussendung_Apostel.jpg",
+  "file": "ordinary_time_14_wednesday_2-4ad6092d.jpg",
+  "commons_file": "De_uitzending_van_de_twaalf_discipelen_Centraal_Museum_2474.jpg",
+  "artist": "Unknown North Netherlandish painter",
+  "license": "Public domain",
+  "source_page": "https://commons.wikimedia.org/wiki/File:De_uitzending_van_de_twaalf_discipelen_Centraal_Museum_2474.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3840,
-  "height": 2880
+  "width": 2400,
+  "height": 1467,
+  "crop": "manual"
  },
  "ordinary_time_14_thursday": {
   "file": "ordinary_time_14_thursday-d5ac701b.jpg",
@@ -5488,28 +5497,30 @@
   "crop": "manual"
  },
  "easter_time_6_tuesday": {
-  "file": "easter_time_6_tuesday-a74b8b8e.jpg",
-  "commons_file": "Ascensión_Rembrandt_Munich.jpg",
-  "artist": "Miguel Hermoso Cuesta",
+  "file": "easter_time_6_tuesday-55a0e5eb.jpg",
+  "commons_file": "Rembrandt_The_Ascension_1636_Oil_on_canvas_Alte_Pinakothek_Munich_Germany.jpg",
+  "artist": "Rembrandt",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Ascensi%C3%B3n_Rembrandt_Munich.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_The_Ascension_1636_Oil_on_canvas_Alte_Pinakothek_Munich_Germany.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 3456,
-  "height": 5184
+  "width": 1769,
+  "height": 2400,
+  "crop": "manual"
  },
  "easter_time_6_thursday": {
-  "file": "easter_time_6_thursday-57a9395d.jpg",
-  "commons_file": "Duccio_di_Buoninsegna_034.jpg",
-  "artist": "Duccio di Buoninsegna",
+  "file": "easter_time_6_thursday_2-f641b7dd.jpg",
+  "commons_file": "Lower_Rhenish_pupil_of_Wolf_Huber_-_Christ_Bids_Farewell_to_the_Apostles_-_Google_Art_Project.jpg",
+  "artist": "Lower Rhenish pupil of Wolf Huber",
   "license": "Public domain",
-  "source_page": "https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_034.jpg",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Lower_Rhenish_pupil_of_Wolf_Huber_-_Christ_Bids_Farewell_to_the_Apostles_-_Google_Art_Project.jpg",
   "layout": "portrait",
   "fx": 0.5,
   "fy": 0.4,
-  "width": 1256,
-  "height": 2376
+  "width": 1317,
+  "height": 2400,
+  "crop": "manual"
  },
  "easter_time_6_friday": {
   "file": "easter_time_6_friday-bf0a251c.jpg",
@@ -6200,16 +6211,16 @@
   "height": 3051
  },
  "easter_time_5_wednesday": {
-  "file": "easter_time_5_wednesday_2-3365c8f4.jpg",
+  "file": "easter_time_5_wednesday_2-b3799bb8.jpg",
   "commons_file": "Icon_with_Christ_the_Vine_attributed_to_the_workshop_of_the_painter_Theophanes_late_16th-early_17th_c.jpg",
   "artist": "Workshop of Theophanes (photo: Yair Haklai)",
   "license": "CC BY-SA 4.0",
   "source_page": "https://commons.wikimedia.org/wiki/File:Icon_with_Christ_the_Vine_attributed_to_the_workshop_of_the_painter_Theophanes_late_16th-early_17th_c.jpg",
   "layout": "portrait",
   "fx": 0.5,
-  "fy": 0.45,
-  "width": 1280,
-  "height": 1672,
+  "fy": 0.4,
+  "width": 1837,
+  "height": 2400,
   "crop": "manual"
  },
  "easter_time_5_friday": {

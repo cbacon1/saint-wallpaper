@@ -69,7 +69,7 @@
  },
  "ascension_of_the_lord": {
   "label": "The painting",
-  "text": "The Ascension of Christ by Pietro Perugino, about 1495–98, painted for the Benedictine abbey of San Pietro in Perugia. The apostles and Mary look up as Christ rises in a ring of angels. It was taken by Napoleon's armies and is now in the Musée des Beaux-Arts, Lyon."
+  "text": "The Ascension by John Singleton Copley, 1775, painted in Rome soon after he left Boston. Christ rises into the clouds as the apostles and Mary look up, and two angels in white turn to speak to them. It is in the Museum of Fine Arts, Boston."
  },
  "assumption_of_the_blessed_virgin_mary": {
   "label": "The painting",
@@ -476,8 +476,8 @@
   "text": "The Madonna and Child Enthroned with Saints by Carlo Crivelli, 1488, painted for a Franciscan church in the Marche. John of Capistrano, canonized centuries later, already appears among the Franciscan saints around the throne. It is in the Gemäldegalerie, Berlin."
  },
  "john_of_god_duarte_cidade_religious": {
-  "label": "The painting",
-  "text": "Saint John of God Carrying a Sick Man by Bartolomé Esteban Murillo, about 1672. Exhausted, he stumbles under his burden, and an angel steps in to help him. It hangs in the Hospital de la Caridad, Seville."
+  "label": "The sketch",
+  "text": "The Triumph of Saint John of God by Corrado Giaquinto, 1740, an oil sketch for a ceiling painting. The saint rises on clouds toward the Virgin, while below the sick and poor he served look up. It is in the Prado, Madrid."
  },
  "john_of_kanty_priest": {
   "label": "The painting",
@@ -660,8 +660,8 @@
   "text": "Christ Pantocrator, 'ruler of all', by Angelos Akotantos, the leading Cretan icon painter of the early 1400s. Christ blesses with one hand and holds the Gospel in the other."
  },
  "pancras_of_rome_martyr": {
-  "label": "The altarpiece",
-  "text": "The San Pancrazio Polyptych by Bernardo Daddi, about 1336–40, painted for the church of San Pancrazio in Florence. The boy martyr Pancras, only fourteen, stands among the saints beside the Virgin. It is in the Uffizi, Florence."
+  "label": "The painting",
+  "text": "Saint Pancras by Louis Sorg, 1855, in the church of Saint-Pancrace at Griesheim-sur-Souffel in Alsace. The boy, only fourteen, stands before the emperor's court with his hand on his heart and refuses to sacrifice to the gods."
  },
  "passion_of_saint_john_the_baptist": {
   "label": "The painting",
@@ -737,7 +737,7 @@
  },
  "rita_of_cascia_religious": {
   "label": "The painting",
-  "text": "Saint Rita of Cascia by Antonio de Torres, Mexico, about 1720. Rita bears the wound of a thorn on her forehead, received while praying before a crucifix. It is in the El Paso Museum of Art."
+  "text": "The Translation of Saint Rita of Cascia by Nicolas Poussin, mid-1630s. Rita is borne through the sky above the Umbrian hills: the story goes that when the convent at Cascia turned her away, she was carried inside its locked doors by a miracle. It is in Dulwich Picture Gallery, London."
  },
  "robert_bellarmine_bishop": {
   "label": "The painting",
@@ -776,8 +776,8 @@
   "text": "The Death of Bishop Stanisław by Józef Peszka, early 1800s. King Bolesław II, excommunicated by the bishop, kills him at the altar in 1079. It is in the National Museum in Kraków."
  },
  "stephen_i_of_hungary": {
-  "label": "The painting",
-  "text": "Saint Stephen of Hungary Receiving the Papal Legate by Pieter Jozef Verhaghen, 1770. The pope's envoy brings the crown for Hungary's first king. It is in the Hungarian National Gallery, Budapest."
+  "label": "The sketch",
+  "text": "The Glorification of the Royal Hungarian Saints by Franz Anton Maulbertsch, about 1772–73, an oil sketch for his ceiling fresco in Győr Cathedral. Stephen and the other holy kings and princes of Hungary rise into the light of heaven. It is in the Metropolitan Museum of Art, New York."
  },
  "stephen_the_first_martyr": {
   "label": "The painting",
@@ -1012,8 +1012,8 @@
   "text": "Don Bosco in Turin, 1880, one of many photographs taken of him—he was among the first saints to be photographed often, and used pictures to promote his work for poor boys."
  },
  "john_eudes_priest": {
-  "label": "The painting",
-  "text": "Saint John Eudes, a 17th-century portrait. The Norman missionary was the first to write a Mass in honor of the Sacred Hearts of Jesus and Mary."
+  "label": "The engraving",
+  "text": "Saint John Eudes and his barrel, an engraving of 1909. When plague struck Caen in 1631 he nursed the dying, then slept in a cask in a field so as not to carry the sickness to his brothers. Behind him rises the Abbaye aux Dames."
  },
  "john_nepomucene_neumann_bishop": {
   "label": "The engraving",
@@ -1096,8 +1096,8 @@
   "text": "Pope Paul VI, an official portrait of 1969. He completed the Second Vatican Council and was the first pope to fly in an airplane and visit five continents."
  },
  "peter_chanel_priest": {
-  "label": "The illustration",
-  "text": "Peter Chanel as a young man, from his 1885 biography. He became the first martyr of Oceania, killed on the island of Futuna in 1841; within a year the island was Christian."
+  "label": "The engraving",
+  "text": "Peter Chanel, an engraving from the Album des missions catholiques, 1888. He became the first martyr of Oceania, killed on the island of Futuna in 1841; within a year the island was Christian."
  },
  "peter_claver_priest": {
   "label": "The painting",
@@ -1132,8 +1132,8 @@
   "text": "Edith Stein around 1938–39, the 'passport photo' taken at the Cologne Carmel before she fled to the Netherlands. In 1942 the Nazis arrested her there and she died at Auschwitz."
  },
  "charles_lwanga_and_companions_martyrs": {
-  "label": "The photograph",
-  "text": "The Basilica of the Uganda Martyrs at Namugongo, built in the shape of a traditional Ganda hut over the place where Charles Lwanga was burned to death in 1886. Every June 3, more than a million pilgrims walk there, many of them for days, from across East Africa."
+  "label": "The window",
+  "text": "Saint Charles Lwanga in a stained-glass window of the Basilica of the Uganda Martyrs at Namugongo, built over the place where he was burned to death in 1886. The window names him in Luganda: Karoli Lwanga. Every June 3, more than a million pilgrims come there."
  },
  "advent_1_sunday_c": {
   "label": "The fresco",
@@ -1233,7 +1233,7 @@
  },
  "ordinary_time_30_sunday_b": {
   "label": "The painting",
-  "text": "Christ Healing the Blind by El Greco, about 1570, painted in Venice before he settled in Spain. Christ touches the blind man's eyes in a deep Italian piazza. It is in the Metropolitan Museum of Art, New York."
+  "text": "Christ Healing the Blind of Jericho by Nicolas Colombel, 1682. The blind man kneels on the road with his staff as Christ reaches out to him, the apostles crowding behind. It is in the Saint Louis Art Museum."
  },
  "ordinary_time_33_sunday_b": {
   "label": "The painting",
@@ -1537,7 +1537,7 @@
  },
  "ordinary_time_29_thursday": {
   "label": "The painting",
-  "text": "Pentecost by Jean Restout, 1732. Tongues of fire descend on the apostles gathered around Mary. It is in the Louvre, Paris."
+  "text": "Pentecost by Giotto and his workshop, about 1310–18, a small panel from a series on the life of Christ. The apostles sit together in the upper room as the Spirit comes upon them like fire. It is in the National Gallery, London."
  },
  "ordinary_time_30_monday": {
   "label": "The print",
@@ -1696,8 +1696,8 @@
   "text": "Pentecost by Titian, about 1555. The Spirit descends on Mary and the apostles under a great coffered vault. It is in Santa Maria della Salute, Venice."
  },
  "easter_time_6_wednesday": {
-  "label": "The mosaic",
-  "text": "Pentecost, an 11th-century mosaic in the monastery of Hosios Loukas, Greece. Rays from the dome descend on the apostles, seated in a circle."
+  "label": "The painting",
+  "text": "The Pouring Out of the Holy Spirit by Anthony van Dyck, about 1618–20. The Spirit breaks through the clouds in a burst of light over Mary and the apostles. It is in the Picture Gallery at Sanssouci, Potsdam."
  },
  "easter_time_6_saturday": {
   "label": "The painting",
@@ -1712,8 +1712,8 @@
   "text": "The Mission of the Apostles, the great tympanum over the central door of the Basilica of Vézelay in Burgundy, carved about 1130. Rays from Christ's hands fall on the apostles, sent to every people of the earth."
  },
  "ordinary_time_14_wednesday": {
-  "label": "The fresco",
-  "text": "The Sending of the Apostles, an 18th-century ceiling fresco in the monastery church of Nová Říše in Moravia."
+  "label": "The painting",
+  "text": "The Sending Out of the Twelve Disciples, by an unknown North Netherlandish painter, about 1573. The apostles set off in pairs along the roads toward the towns, as Christ blesses them on their way. It is in the Centraal Museum, Utrecht."
  },
  "ordinary_time_14_thursday": {
   "label": "The painting",
@@ -1764,8 +1764,8 @@
   "text": "The Ascension by Rembrandt, 1636, one of his Passion series for the Prince of Orange. Christ rises in a blaze of light on a cloud borne by cherubs. It is in the Alte Pinakothek, Munich."
  },
  "easter_time_6_thursday": {
-  "label": "The panels",
-  "text": "Christ Taking Leave of the Apostles, two panels by Duccio from the back of his Maestà altarpiece for Siena Cathedral, 1308–11. At the Last Supper Christ tells them, 'A little while and you will no longer see me.' It is in the Museo dell'Opera del Duomo, Siena."
+  "label": "The painting",
+  "text": "Christ Bids Farewell to the Apostles, by a Lower Rhenish pupil of Wolf Huber, early 1500s. Christ takes leave of his friends at the edge of a forest of towering trees. It is in the Museum Kunstpalast, Düsseldorf."
  },
  "easter_time_6_friday": {
   "label": "The painting",
